@@ -47,24 +47,19 @@ We present our approach for the English (LCP & LS) task, utilizing our **LAE-LS*
 
 Technical details of our methodology are outlined below:
 
-LAE-LS introduces a novel method for lexical simplification (LS) that is trained without the use
-of parallel corpora or any external linguistic resources.
-This method comprises two key modules: Adversarial Editing and Difficulty-aware Filling.
+**LAE-LS** introduces a novel method for LS that is trained without the use of parallel corpora or
+any external linguistic resources, comprising two key modules: Adversarial Editing and Difficulty-aware Filling.
+Concretely, we employ an Adversarial Editing System with guidance from a confusion loss and an invariance loss to
+predict lexical edits in the original sentences.
+Particularly, an LLM-enhanced loss is tailored to distill high-quality knowledge from LLMs into our Edit Predictor.
+From that, complex words within sentences are masked and a Difficulty-aware Filling module is crafted to replace masked
+positions with simpler words.
 
-Concretely, we employ an Adversarial Editing module to train an Edit Predictor for predicting lexical edits, which can
-be used to identify complex words within sentences.
-To balance the preservation of semantics and the level of simplification, we introduce a confusion loss and an
-invariance loss to confuse the discriminator and preserve the semantics of the original sentence, respectively.
-Particularly, an LLM-enhanced loss is tailored to extract supervision signals from Large Language Models.
-With this loss, high-quality knowledge from LLMs can be distilled into our Edit Predictor.
-Eventually, the Difficulty-aware Filling module is crafted to fill in the masked positions with alternative simple
-words.
+- For LCP, we utilize the probability of a word being masked by the Edit Predictor as the complexity value of
+  the word in context.
 
-- For the LCP method, we utilize the probability of a word being masked by the Edit Predictor as the complexity value of
-the word in context.
-
-- For the LS method, we mask difficult words and utilize the Difficulty-aware Filling module to predict substitute words
-for these positions. The top 10 predicted words are selected as the final list of substitute words.
+- For LS, we mask complex words and utilize the Difficulty-aware Filling module to predict substitute words,
+  selecting the top 10 predicted words as the final substitutes list.
 
 [1] Tan K, Luo K, Lan Y, et al. An LLM-Enhanced Adversarial Editing System for Lexical Simplification[J]. arXiv preprint
 arXiv:2402.14704, 2024.
