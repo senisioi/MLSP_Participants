@@ -46,10 +46,12 @@ Please indicate which of the following languages you are able to provide human e
 | Spanish     |      |     |
 
 ### System Description
+We basically used GPT-4 based approach in the both tasks.
+The details are follows:
 
-For LS we used a SOTA transformer based Multilingual Language Model with custom prompt engineering as follows...
+#### LS
 
-For LCP, we used a regression model based on the following multilingual features...
+#### LCP
 
 ### Agreement
 
