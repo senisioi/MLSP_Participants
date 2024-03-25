@@ -40,7 +40,7 @@ Please indicate which of the following languages you are able to provide human e
 | French      |      |     |
 | German      |      |     |
 | Italian     |      |     |
-| Japanese    |   X  |  X  |
+| Japanese    |   　　  |  X  |
 | Portuguese  |      |     |
 | Sinhala     |      |     |
 | Spanish     |      |     |
