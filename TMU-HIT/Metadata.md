@@ -2,27 +2,32 @@
 
 ### Team Name: 
 
-Dummy_Team_1
+TMU-HIT
 
 ### Participants:
 
-1. John Smith, University of Life
-2. Jane Doe, Life Polytechnic
+1. Taisei Enomoto, Tokyo Metropolitan University
+2. Hwichan Kim, Tokyo Metropolitan University
+3. Tosho Hirasawa, Tokyo Metropolitan University
+4. Yoshinari Nagai, Tokyo Metropolitan University
+5. Ayako Sato, Tokyo Metropolitan University
+6. Kyotaro Nakajima, Tokyo Metropolitan University
+7. Mamoru Komachi, Hitotsubashi University
 
 ### Language Survey
 
 Please indicate which of the following languages you are able to provide human evaluation for. You should be proficient in a language to provide judgments in it.
 
- - [X] Catalan
- - [X] English
- - [X] Filipino
+ - [ ] Catalan
+ - [ ] English
+ - [ ] Filipino
  - [ ] French
  - [ ] German
- - [X] Italian
- - [ ] Japanese
- - [X] Portuguese
+ - [ ] Italian
+ - [X] Japanese
+ - [ ] Portuguese
  - [ ] Sinhala
- - [X] Spanish
+ - [ ] Spanish
 
 ### Files submitted (mark with an X):
 
@@ -35,7 +40,7 @@ Please indicate which of the following languages you are able to provide human e
 | French      |      |     |
 | German      |      |     |
 | Italian     |      |     |
-| Japanese    |      |     |
+| Japanese    |   X  |  X  |
 | Portuguese  |      |     |
 | Sinhala     |      |     |
 | Spanish     |      |     |
