@@ -35,12 +35,12 @@ Please indicate which of the following languages you are able to provide human e
 | ------------|:----:|----:|
 | All         |   X  |  X  |
 | Catalan     |      |     |
-| English     |      |     |
+| English     |   X  |  X  |
 | Filipino    |      |     |
 | French      |      |     |
 | German      |      |     |
 | Italian     |      |     |
-| Japanese    |   　　  |  X  |
+| Japanese    |  X   |  X  |
 | Portuguese  |      |     |
 | Sinhala     |      |     |
 | Spanish     |      |     |
