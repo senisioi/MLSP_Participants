@@ -51,10 +51,10 @@ Please indicate which of the following languages you are able to provide human e
 
 We tried several methods ranging from simple embeddings and frequency baselines, feed forward with BERT features, to more complex fine-tuning of LLMs with synthetic examples.
 The submitted results include the following methods:
-* Embeddings and frequency baselines for Spanish, English and Portuguese (LCP)
+* Embeddings and frequency baselines for Spanish, English and Portuguese (LS)
 * Feed forward with BERT-based embeddings for Spanish and English (LCP)
-* Fine-tuning Mistral-7B for English (LCP) and with synthetic data for English, Spanish, Catalan and Portuguese (LCP and LS)
-* GROQ prompting for Spanish (LS)
+* Fine-tuning Mistral-7B for English (LCP) and with synthetic data and self-consistency for English, Spanish, Catalan and Portuguese (LCP and LS)
+* Prompting using models available in the Groq API (LS)
 
 ### Agreement
 
