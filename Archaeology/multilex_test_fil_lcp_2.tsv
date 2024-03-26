@@ -70,7 +70,7 @@ fil_99	filipino	Ang tingin ko sa makinang iyan ay isang malaking laruan na puwed
 fil_100	filipino	Pito, walo, Ikiling sa kanan at kaliwa ang ulo.	kaliwa	0.21501003
 fil_101	filipino	Ako ang hari ng kalsada lagi niyang sinasabi.	kalsada	0.21575028
 fil_102	filipino	Humantong ito sa kamatayan ni Bonifacio.	kamatayan	0.24465245
-fil_103	filipino	Hinubog kami mula sa iisang goma.	kami	0.23115475
+fil_103	filipino	Hinubog kami mula sa iisang goma.	kami	0.24066062
 fil_104	filipino	Ang masiglang pagkalembang ng mga kampana ang hudyat ng simula ng pambihirang pista!	kampana	0.29133204
 fil_105	filipino	Lahat ng mga bumibisita sa kampo ay kailangang dumaan sa checkpoint.	kampo	0.2433429
 fil_106	filipino	Kaya pala tingin ko kanina parang may tumitingin sa akin.	kanina	0.15521778
@@ -103,7 +103,7 @@ fil_132	filipino	Nagdala sila ng malalaking basket ng lansones mula sa kanilang 
 fil_133	filipino	Naisip nila na may lason ang lansones kaya namatay ang magnanakaw!	lason	0.28087857
 fil_134	filipino	Naging yelo din pati tubig ng lawa na dati nilang pinamimingwitan ng isda.	lawa	0.21575028
 fil_135	filipino	Hanggang ang leeg niya ang makagat.	leeg	0.2562781
-fil_136	filipino	Ang tigre't leon sa parang, at tao sa kaharian.	leon	0.25632393
+fil_136	filipino	Ang tigre't leon sa parang, at tao sa kaharian.	leon	0.26879212
 fil_137	filipino	Binusisi ang bawat pahina ng libro at magasin.	libro	0.2433429
 fil_138	filipino	Kahit bantay sa presinto, laging listo sa trabaho at serbisyo.	listo	0.38053533
 fil_139	filipino	Lumundag si Munting Sinag-araw sa maraming lubak at nag-isprey siya ng init.	lubak	0.47880876
@@ -265,7 +265,7 @@ fil_294	filipino	"Idiniklara ng mayor ang ""Enhanced Community Quarantine o ECQ"
 fil_295	filipino	Ang kawalan mo ng ilaw ang nagpapabukod-tangi sa iyo, malambing na wika ni Donya Luz.	kawalan	0.15750112
 fil_296	filipino	Maganda ang tanawin mula sa aking puwesto.	tanawin	0.20155929
 fil_297	filipino	Lumayo ka sa mga bagay na puwedeng matumba.	bagay	0.15093394
-fil_298	filipino	Anong gulo ang ginawa mo sa iyong mga damdamin!	gulo	0.2791499
+fil_298	filipino	Anong gulo ang ginawa mo sa iyong mga damdamin!	gulo	0.3064822
 fil_299	filipino	Dapat dagdagan natin kahit papaano.	dagdagan	0.23714705
 fil_300	filipino	Pero sa kabila ng kanilang sitwasyon sa buhay ay masasabi nilang may kulang pa rin.	sitwasyon	0.26248273
 fil_301	filipino	Dahil walang ani, nagkaroon ng matinding kakulangan sa pagkain.	kakulangan	0.3133842
@@ -293,7 +293,7 @@ fil_322	filipino	O, mas masarap 'yan kung may kasamang inihaw na niyog!	inihaw	0
 fil_323	filipino	Naisip kong idaan sa pagsubok ang pagpili paliwanag ng sultan matapos mag-isip.	pagsubok	0.20374188
 fil_324	filipino	Lihim niyang itinangis ang pagkawala ng kanyang kasintahan.	pagkawala	0.3420071
 fil_325	filipino	May isang basong tubig at limang ibon na uhaw.	uhaw	0.24152167
-fil_326	filipino	Galing sa mga hula sa isang magasin.	hula	0.2698639
+fil_326	filipino	Galing sa mga hula sa isang magasin.	hula	0.2899882
 fil_327	filipino	Isang araw nagkaroon ng lindol at baha.	lindol	0.4099423
 fil_328	filipino	Ngayon na ang katapusan mo!	katapusan	0.33957073
 fil_329	filipino	Patay ang buhok niya.	buhok	0.1684615
@@ -319,12 +319,12 @@ fil_348	filipino	Doon sa libingan ng mga walang modo hindi na makapagyabang si K
 fil_349	filipino	Ngunit si Mario ay may kaunting pagkakaiba kaysa so ibang mga bata.	pagkakaiba	0.23560868
 fil_350	filipino	Sa pag-akyat pa lang sa hagdan, hirap na ako kaya kailangang dahan-dahan.	pag-akyat	0.2836757
 fil_351	filipino	Kung hindi mo alam ang sagot, sabay ninyong alamin sa pamamagitan ng pagbisita sa aklatan o pagsasaliksik sa Internet.	pamamagitan	0.20329307
-fil_352	filipino	Tambak kasi ang mga gawain sa kusina, lalo na kapag may piging o may darating na mga bisita.	piging	0.22675031
+fil_352	filipino	Tambak kasi ang mga gawain sa kusina, lalo na kapag may piging o may darating na mga bisita.	piging	0.26084843
 fil_353	filipino	Puro alikabok ang mga upuan sa tindahan.	upuan	0.20772627
 fil_354	filipino	Gumawa ng mga ID at ilagay dito ang pangangailangan ng bawat miyembro ng iyong pamilya.	pangangailangan	0.25404686
 fil_355	filipino	Isang araw, nakita ko si Nanay na naglalaba ng mga sako ng semento.	sako	0.28087857
 fil_356	filipino	Apat na tipak ng bato.	tipak	0.4067687
-fil_357	filipino	Makagagawa kaya ako ng tali para sa saranggola ko?	tali	0.30950564
+fil_357	filipino	Makagagawa kaya ako ng tali para sa saranggola ko?	tali	0.28087857
 fil_358	filipino	Pagdating sa ilog lumusong ang Katyaw kasunod ang walang-imik na prinsipe.	lumusong	0.35504624
 fil_359	filipino	Di yata matuwid naman, na sa iyong kalooban ako ay mapakasal kay Don Pedrong Tampalasan?	matuwid	0.2427079
 fil_360	filipino	Maraming salamat po Panginoon at dininig mo ang aming kahilingan, naisaloob ni Mang Pedring habang papalabas ng pagawaan.	papalabas	0.33021972
@@ -541,7 +541,7 @@ fil_570	filipino	Lahat ng iyon ay bilang pasasalamat sa kaligtasan ni Prinsesa L
 fil_571	filipino	Ngumiti ang birhen kay Fray Fernando at marahang bumaba patungo sa kanya.	marahang	0.43280092
 fil_572	filipino	May naghiyawan sa mga kapitbahay at halos sabay-sabay na lumiwanag ang mga kabahayan.	naghiyawan	0.49263105
 fil_573	filipino	Hindi, bumagal ang paghingal niya.	paghingal	0.4905893
-fil_574	filipino	Sa ceremony, nagsalita si Prinsipal Gretel tungkol sa halaga ng pagkakaroon ng parehong interes para magkasundo ang mga tao.	interes	0.24363689
+fil_574	filipino	Sa ceremony, nagsalita si Prinsipal Gretel tungkol sa halaga ng pagkakaroon ng parehong interes para magkasundo ang mga tao.	interes	0.24994268
 fil_575	filipino	Trabungko! malakas na sigaw ko sabay karipas ng takbo pabalik sa bahay ni Lolo.	karipas	0.3892928
 fil_576	filipino	Lumakas ang salakay ng mga Esapanyol.	salakay	0.39086354
 fil_577	filipino	Raquel gusto mo itirintas ko ang buhok mo?	itirintas	0.49263105
