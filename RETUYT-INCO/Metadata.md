@@ -54,7 +54,7 @@ The submitted results include the following methods:
 * Embeddings and frequency baselines for Spanish, English and Portuguese (LS)
 * Feed forward with BERT-based embeddings for Spanish and English (LCP)
 * Fine-tuning Mistral-7B for English (LCP) and with synthetic data and self-consistency for English, Spanish, Catalan and Portuguese (LCP and LS)
-* Prompting using models available in the Groq API (LS)
+* Prompting using models available in the Groq API for Spanish (LS)
 
 ### Agreement
 
