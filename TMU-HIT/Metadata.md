@@ -50,8 +50,18 @@ We basically used GPT-4 based approach in the both tasks.
 The details are follows:
 
 #### LS
+In System 1, we used GPT-4 to generate 10 alternative words for the target word in zero-shot.
+In the case of Japanese, rather than solely generating alternative words, we directed GPT-4 to generate sentences wherein the target words were substituted with each alternative word. This approach was necessary to ensure that the “Katsuyou” (inflection) appropriately suited the context in Japanese.
+In System 2, we directed GPT-4 to re-rank the top three alternatives in System 1 based on the “Ease of word” and the “Semantic similarity of word to the target word.
+In System 3, we re-ranked the top three alternatives in System 1 using [XGLM] (https://huggingface.co/facebook/xglm-7.5B), which we fine-tuned using the Trial data.
 
 #### LCP
+For LCP, we assessed the complexities of target words according to [G-EVAL](https://arxiv.org/abs/2303.16634).
+First, we employed GPT-4 to generate an instruction in English utilizing AutoCoT, subsequently assigning complexity scores to target words across all languages based on the English instruction.
+Additionally, we conducted an analysis of the efficacy of the initial instruction for each language, refining the instruction to enhance the accuracy of complexity scoring.
+This refinement included incorporating instructions specifying the language of the target word or emphasizing the scoring of complexities by individuals lacking specialized knowledge or expertise in a particular domain, into the initial instruction.
+We evaluated each refined instruction using trial data and selected the instruction that achieved the lowest MSE score for each language.
+The results, namely *_1.tsv and *_2.tsv, correspond to the zero- and three-shot settings, respectively.
 
 ### Agreement
 
