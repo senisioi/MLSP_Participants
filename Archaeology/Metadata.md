@@ -42,8 +42,11 @@ Please indicate which of the following languages you are able to provide human e
 
 ### System Description [tba]
 
+#### \*2.tsv
 - LCP: old-fashioned lexical complexity feature engineering + xgb regressor 
-- LS: OpenHermes Mistral 2.5 for candidate generation
+- LS: OpenHermes Mistral 2.5 for candidate generation; asked the LLM to generate words in the target language
+#### \*1.tsv
+- tested MT reliability for such tasks and machine-translated all texts in English, applied the same LCP and LS systems, back-translated everything into the original languages
 
 
 ### Agreement
