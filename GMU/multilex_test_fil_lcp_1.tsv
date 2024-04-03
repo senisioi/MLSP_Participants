@@ -1,0 +1,570 @@
+fil_31	filipino	Bago buksan ang groseri nag-iinspeksiyon muna si Mister Delfin Del Pan.	buksan	0.17238002915800002
+fil_32	filipino	Dahil laging bumabagyo noon at sinisira ng malakas na hangin ang pananim, nagtanim si Angalo ng maraming punongkahoy sa bundok at paligid.	bumabagyo	0.2719575381
+fil_33	filipino	Noong itong munting Dilis Mutyang bunso ng Silahis.	bunso	0.17972279773
+fil_34	filipino	Pumitas siya ng isang butil at kinagat.	butil	0.17568118221
+fil_35	filipino	Ngunit, nasira ang tulay sa malaking ilog at maraming buwaya sa ilog.	buwaya	0.23526388488
+fil_36	filipino	Lumusong sila sa tubig na hanggang tuhod ang lalim at sabik nilang hinihintay ang pagsalpok sa dalampasigan ng malalaking alon.	dalampasigan	0.26062050961
+fil_37	filipino	Napakadilim ang kagubatan noon at napakaraming gumagalang dambuhala nang dumating ang bayaning si Batlog.	dambuhala	0.26060490942
+fil_38	filipino	Nahiga siya sa damuhan at nakatulog.	damuhan	0.19767106033999998
+fil_39	filipino	Sakay niyon ang mga puting dayuhan at itinuturo ang bayan ng Mactan.	dayuhan	0.19786842131
+fil_40	filipino	Hindi ko alam pero nagagandahan ako rito kaya isasabit ko na lang na dekorasyon sa aking pugad.	dekorasyon	0.21371181495000002
+fil_41	filipino	Sa gabi, nagsindi pa ng maraming kandila para daw hindi matakot sa dilim ang mga punla.	dilim	0.21325839183
+fil_42	filipino	At dinakip ni Miyo ang aso.	dinakip	0.14169874169
+fil_43	filipino	O maghintay ka lang dito ha.	dito	0.15539285971000003
+fil_44	filipino	May bagong ngipin na tutubo diyan pagkatapos ng ilang linggo.	diyan	0.21602152882000003
+fil_45	filipino	Hinikayat sila ng doktor na maging halimbawa ng mabuting kalusugan para kay Filemon.	doktor	0.16993489339
+fil_46	filipino	Dati, doon lang siya umiistambay.	doon	0.18310521876
+fil_47	filipino	Nagpagulong-gulong si Ivik at nang huminto ang kanyang paggulong ay dumilat siya.	dumilat	0.22489425654
+fil_48	filipino	Pagdating naman ng Abril bakasyong enggrande ang nasa isip namin.	enggrande	0.18602536749
+fil_49	filipino	Kayang-kaya ring pataubin ng Nanay mo ang gabundok mang labahin.	gabundok	0.17105266281
+fil_50	filipino	Dito kami nanghuhuli ng gagamba at nanghahabol ng tutubi.	gagamba	0.20232567127
+fil_51	filipino	Ang sampung gamugamo sumugba sa ningas.	gamugamo	0.21398670537999998
+fil_52	filipino	Simula beybi pa lang ako'y ganito na ang gupit ko.	ganito	0.17194526555
+fil_53	filipino	Nagsimulang magsaboy ng tubig si Sinag kay Tala at ganoon din ang ginawa ni Tala kay Sinag.	ganoon	0.24037238217999998
+fil_54	filipino	Di ba ganyan naman ang ispeling?	ganyan	0.19155824857
+fil_55	filipino	Ang Araw ng Nagkakaisang Bansa kung Oktubre ginugunita naming lagi sa aming klase.	ginugunita	0.1812096144
+fil_56	filipino	Para din palang papel ang mga tela, puwedeng guhitan at puwedeng gupitin.	guhitan	0.19289776959
+fil_57	filipino	Lumigid sa pumpon ng gumamela si Martin.	gumamela	0.22645923552000002
+fil_58	filipino	Maaaring gumuho ang mga gusali.	gumuho	0.21440645916
+fil_59	filipino	Maya-maya'y nagsimulang gumulong ang malalaking alon patungong dalampasigan.	gumulong	0.22761993311999998
+fil_60	filipino	Inilulunsad kasi ngayon ang gusali pero sa susunod pang taon gagamitin.	gusali	0.23845524531999998
+fil_61	filipino	Kumuha ng hagdan ang lalaki.	hagdan	0.20606927039
+fil_62	filipino	Itinago ng mag-asawa sa halamanan si Maria upang hindi ito mapahamak.	halamanan	0.159159328844
+fil_63	filipino	Bumalik agad si Tatay sa Bulacan upang ipagpatuloy ang kaniyang hanapbuhay doon.	hanapbuhay	0.180570582038
+fil_64	filipino	Buong hapon ay nagpalipad ng saranggola.	hapon	0.22590441220000002
+fil_65	filipino	Tumulong ang tatlong haragan kay Emang Engkantada.	haragan	0.14291056713
+fil_66	filipino	Nang hatinggabi na, ama ay wala pa.	hatinggabi	0.20457743874
+fil_67	filipino	Mga kaibigan hayan na ang aking itlog Kainin ninyo at nang kayo ay maging malusog!	hayan	0.14865558695999997
+fil_68	filipino	Kaya hayun ang buhok ni Raquel ang aking napagbalingan.	hayun	0.21235038391
+fil_69	filipino	Hindi pinansin ni Matsing ang hiling ni Pagong.	hiling	0.17243134914000002
+fil_70	filipino	Karamihan ng paglalakbay sa himpapawid ngayon ay binubuo ng mga pampasaherong jet.	himpapawid	0.23839852876
+fil_71	filipino	Pagkatapos, hinakot niya ang lahat ng itlog na matatagpuan niya at itinago sa magubat na bahagi ng isla.	hinakot	0.25192814718
+fil_72	filipino	At hinayaan ko lang siyang umalis.	hinayaan	0.17107049023999998
+fil_73	filipino	Pumulupot uli ang ahas sa mangkok at hinigop ang gatas.	hinigop	0.210080683
+fil_74	filipino	Sa ilalim ng mga ugat si Talangka at ang daan-daang mga hipon ang nagsisiksikan.	hipon	0.22110757351000002
+fil_75	filipino	Masayang-masaya si Carl sa ibinalita ng kaniyang nanay.	ibinalita	0.19739834911999998
+fil_76	filipino	Maingat namang nagbihis si Lolo saka ibinulsa ang pitaka at rosaryo.	ibinulsa	0.22980777809999997
+fil_77	filipino	At dahil isang diwata iginagalang din siya ng mga hayop.	iginagalang	0.23232263546999998
+fil_78	filipino	Sa kamay ko, ang mabilog na mukha ay ikinuskos at ipinulupot ang mahaba niyang buntot.	ikinuskos	0.23754595549000002
+fil_79	filipino	Pumalakpak ako at ang ilan naming kaklase.	ilan	0.17795890726
+fil_80	filipino	Para naman sa earthquake plan, ilista ang mga ligtas na lugar sa iyong bahay o paaralan na maaaring puntahan sakaling lumindol.	ilista	0.20366765060000003
+fil_81	filipino	Kung minsan ay hinahayaan niya kaming mangalap ng impormasyon sa pook-sapot tulad ng Google at Youtube gamit ang internet.	impormasyon	0.22041371470999999
+fil_82	filipino	Agad kong inilabas ang aking mga robot at inalok siyang maglaro.	inalok	0.19558698022
+fil_83	filipino	Matapos magbudbod ng pataba, inimbita ni Peles ang kabarkadang mga palaka.	inimbita	0.27670314571000004
+fil_84	filipino	Halikayo at ipapakita ko sa inyo sabi ni Inang Pusa.	inyo	0.18766479658
+fil_85	filipino	May mga bulaklak na dapat malagas upang ipanganak ang bungang masarap.	ipanganak	0.1849927789
+fil_86	filipino	Naku, huwag mo akong itapon sa ilog, pagmamakaawa ni Pagong.	itapon	0.12225930163200001
+fil_87	filipino	At pagbalik mo dito ay maaari mo nang gapasin ang itinanim mong palay.	itinanim	0.19345451467
+fil_88	filipino	Magpapahinog ang mga iyan sa paghihintay sa hindi matapos-tapos na kalyeng hinuhukay.	iyan	0.19644971022
+fil_89	filipino	Kung nagkasala si Talangka sa iyo dapat na isinumbong mo siya rito at bahala akong magparusa sa kaniya.	iyo	0.15899203948
+fil_90	filipino	Bumalik na sa dating kaayusan ang Bakawan.	kaayusan	0.20847699898
+fil_91	filipino	Mga kapatid niya, kabarkada ang turing.	kabarkada	0.26226960228
+fil_92	filipino	Marami siyang nagawang kabutihan para sa mga tao sa mundo.	kabutihan	0.20294404360999996
+fil_93	filipino	Kahapon nama'y nagpunta kami sa kaharian ng mga tilapya.	kaharian	0.18090625442
+fil_94	filipino	Di na ako hahawak kailanman ng pana.	kailanman	0.18245174451
+fil_95	filipino	Sa may kakahuyan siya nagtanim.	kakahuyan	0.19589176197000002
+fil_96	filipino	Nagpunta si Aling Nena upang ipaliwanag ang kalagayan nito sa guro.	kalagayan	0.21306858046
+fil_97	filipino	Tiningnan ko ang kalendaryo at pinihit ang mga pahina nito.	kalendaryo	0.24970795525
+fil_98	filipino	Kung hahanapin ay kaligayahan maging malalim o may kababawan, sa iyo ay may nakalaan.	kaligayahan	0.28768563492
+fil_99	filipino	Ang tingin ko sa makinang iyan ay isang malaking laruan na puwedeng kalikutin nang hindi nasisira.	kalikutin	0.24727699908
+fil_100	filipino	Pito, walo, Ikiling sa kanan at kaliwa ang ulo.	kaliwa	0.18207839241999998
+fil_101	filipino	Ako ang hari ng kalsada lagi niyang sinasabi.	kalsada	0.17081314513
+fil_102	filipino	Humantong ito sa kamatayan ni Bonifacio.	kamatayan	0.21976305456
+fil_103	filipino	Hinubog kami mula sa iisang goma.	kami	0.17272031304
+fil_104	filipino	Ang masiglang pagkalembang ng mga kampana ang hudyat ng simula ng pambihirang pista!	kampana	0.19422640747
+fil_105	filipino	Lahat ng mga bumibisita sa kampo ay kailangang dumaan sa checkpoint.	kampo	0.20822198464000002
+fil_106	filipino	Kaya pala tingin ko kanina parang may tumitingin sa akin.	kanina	0.17733618596
+fil_107	filipino	Si Lola naman! kantiyaw ni Ate.	kantiyaw	0.20598463969
+fil_108	filipino	Maraming malalaking kanyon kahit saang lugar.	kanyon	0.16135431118000002
+fil_109	filipino	Sa malaking kapalaran ng prinsipeng si Don Juan ay nasalubong sa daan ang isang matandang mahal.	kapalaran	0.20442931953
+fil_110	filipino	Pag nabukulan ako, kapkap dito, kapkap doon.	kapkap	0.19057583532000003
+fil_111	filipino	Unti-unting nagsipagdatingan na ang kanilang mga suki, karamihan ay may-ari ng mga tindahan sa nasabing lugar.	karamihan	0.20389532374
+fil_112	filipino	Sa karera sa sapa, ako ang bangkang pambato.	karera	0.19643614364
+fil_113	filipino	Ang di magpatawad naman sa ginawang kasalanan ay di rin naman kakamtan ang glorya sa kalangitan.	kasalanan	0.23150466257000002
+fil_114	filipino	Naku, kaunti pa lang po yan.	kaunti	0.20511941004
+fil_115	filipino	Pero parehas kami ng mga mata at kayumanggi rin ang kulay ng balat ko.	kayumanggi	0.19029978171000003
+fil_116	filipino	Simbilis ng kidlat na sinunggaban ng dalawa ang kaniyang baunan.	kidlat	0.20943459538
+fil_117	filipino	Nang magising si Miguel kinabukasan ng umaga at nakitang may tumutubong mga kamatis sa kaniyang tainga.	kinabukasan	0.20288705579
+fil_118	filipino	Nagulat siya nang ang kinagat ay matigas.	kinagat	0.17719646703000003
+fil_119	filipino	Maraming pagbabago sa ating klima at paraan ng pamumuhay na dapat paghandaan ng kasalukuyang henerasyon.	klima	0.16668322823
+fil_120	filipino	Kaya ngayon pag may aali-aligid at bubulong-bulong na kulisap sa inyong tainga si Lamok iyon.	kulisap	0.20604690377
+fil_121	filipino	Sugod, mga kapatid! parang kulog ang kaniyang sigaw.	kulog	0.146931188864
+fil_122	filipino	At muli siyang kumaripas ng takbo.	kumaripas	0.18365269086
+fil_123	filipino	Nagliliwanag ito tulad ng araw kumikinang tulad ng mga tala.	kumikinang	0.17108745974
+fil_124	filipino	A, ang itlog ng pawikan, nasambit niya at kumislap ang dalawang matatakaw na mata.	kumislap	0.21834153974999998
+fil_125	filipino	Isang makinang na kumpol ng tenedor at kutsara ang himalang naglaho at walang natira!	kumpol	0.23426605978
+fil_126	filipino	Sa kusina, ang mga kawali, sandok, at kaldero ay biglang nawala nang kumurap ang kusinero.	kumurap	0.24390896469
+fil_127	filipino	O, kumusta na ang mga homework ninyo?	kumusta	0.21090441929999998
+fil_128	filipino	Tatlong hiwa lamang ng tapang kuneho ang kanyang baong pagkain pag-alis.	kuneho	0.18890861282
+fil_129	filipino	Ako si Ignacia isang kuting na itim gaya ng nakikita ninyo.	kuting	0.15570502748999998
+fil_130	filipino	Sa lamesa ko'y magisnan, kakanin ko sa almusal.	lamesa	0.23057126313
+fil_131	filipino	Dumapo sa lampara na binili naman ni Ginang Gomez.	lampara	0.16883349927199998
+fil_132	filipino	Nagdala sila ng malalaking basket ng lansones mula sa kanilang taniman.	lansones	0.18910511968
+fil_133	filipino	Naisip nila na may lason ang lansones kaya namatay ang magnanakaw!	lason	0.20593628559
+fil_134	filipino	Naging yelo din pati tubig ng lawa na dati nilang pinamimingwitan ng isda.	lawa	0.23236521575000002
+fil_135	filipino	Hanggang ang leeg niya ang makagat.	leeg	0.16326974972
+fil_136	filipino	Ang tigre't leon sa parang, at tao sa kaharian.	leon	0.14082722187000002
+fil_137	filipino	Binusisi ang bawat pahina ng libro at magasin.	libro	0.17899206623
+fil_138	filipino	Kahit bantay sa presinto, laging listo sa trabaho at serbisyo.	listo	0.179596533478
+fil_139	filipino	Lumundag si Munting Sinag-araw sa maraming lubak at nag-isprey siya ng init.	lubak	0.22079133637999998
+fil_140	filipino	Ang araw ay lulubog na.	lulubog	0.22900104311
+fil_141	filipino	Unang lumalaki ang aking ulo kaysa katawan ko.	lumalaki	0.16288034890000003
+fil_142	filipino	Para sa earthquake drill, isagawa ang mga hakbang na dapat gawin habang lumilindol.	lumilindol	0.19173351051999998
+fil_143	filipino	Tumalikod na si Jenny para umalis pero lumingon siya ulit.	lumingon	0.17866854481
+fil_144	filipino	Dalawa, at lumipat siya sa ikalawang buwaya.	lumipat	0.12583431635200001
+fil_145	filipino	Limang lungga at limang alimango.	lungga	0.23039041187999998
+fil_146	filipino	Kasi po humihingi lang ako ng saklolo dahil dala ni Pagong ang kaniyang bahay at natatakot akong mabagsakan.	mabagsakan	0.21233758147
+fil_147	filipino	Namangha ang naroong madla nang bumagsak ang bahay na katabi ng tahanan ni Ines Kannoyan.	madla	0.23054021706000002
+fil_148	filipino	Minsan sasakay lang kaming dalawa sa madyik silya at bigla itong nagiging kotse.	madyik	0.18355355961
+fil_149	filipino	Marami silang pagkain at magaan ang buhay nilang lahat.	magaan	0.15826754450000002
+fil_150	filipino	Malamig lagi ang opisina at bawal mag-ingay dahil baka magambala ang gamugamong mahimbing na mahimbing.	magambala	0.2196009433
+fil_151	filipino	Matapos magbudbod ng pataba, inimbita ni Peles ang kabarkadang mga palaka.	magbudbod	0.29956624427
+fil_152	filipino	Naisip nilang dapat silang mag-ingat dito.	mag-ingat	0.21363978494000002
+fil_153	filipino	Magkano, magkano ang manok mo? sabik na sabik na tanong ng Datu.	magkano	0.13638663998
+fil_154	filipino	At magpaalam sa guro kung papasok sa klasrum sa room-to-room campaign.	magpaalam	0.2307243457
+fil_155	filipino	Malungkot na dinala ng magsasaka sa bahay ang isang bilaong luya.	magsasaka	0.18242242834
+fil_156	filipino	Biglang magsisibangon ang basahan at sabon.	magsisibangon	0.17874020917999997
+fil_157	filipino	Walang mahalaga kay Ciriaco kundi ang presyo ng kargamento.	mahalaga	0.19441201148
+fil_158	filipino	Gusto kong maging isang mahusay na sastre balang-araw.	mahusay	0.14676437619
+fil_159	filipino	Sa wakas, naisip ni Odon mahiga at magkulubong ng kumot para makaligtas sa bagsik ni Lamok.	makaligtas	0.22839650223999997
+fil_160	filipino	Ni hindi makatawid sa kabilang kanto ang mayayabang.	makatawid	0.23632718915
+fil_161	filipino	Binigyan ako ni Mama ng gamot at nagpatong siya ng malamig na bimpo sa aking noo.	malamig	0.17956419671999999
+fil_162	filipino	May malinaw na batis sa malapit at maraming isdang nahuhuli si Danas.	malinaw	0.19699149669
+fil_163	filipino	Ngunit napakasipag ni Juan kaya malusog ang mga tanim niyang gulay at prutas.	malusog	0.26346560326
+fil_164	filipino	Halos mamaos na si Diwayen ay hindi pa rin lumalabas ang pilyang prinsesa.	mamaos	0.21994505335000003
+fil_165	filipino	Sabay-sabay nating bubuksan mamaya ang mga regalo, ha?	mamaya	0.17742254223999998
+fil_166	filipino	Pag naging sikat ako, mananalo ako sa eleksiyon.	mananalo	0.14095519866
+fil_167	filipino	Dati-rati'y mangilan-ngilan lang ang aking nabubunot.	mangilan-ngilan	0.17555635837
+fil_168	filipino	Pati damit daw ng mga manyika nila, tinahi niya.	manyika	0.2048266294
+fil_169	filipino	Masipag at masinop si Lolo.	masinop	0.12043179643000002
+fil_170	filipino	Imbes na agad magkuwento umiling si Bianca at itinuro ang matalik niyang kaibigan na si Jelo.	matalik	0.18380494060000002
+fil_171	filipino	Masakit talaga ang matalo pero bahagi 'yon ng pagtakbo.	matalo	0.23523133162
+fil_172	filipino	Kahit maliit si Munting Ningas-apoy ay matindi ang kaniyang init.	matindi	0.18262930190999999
+fil_173	filipino	Nilagyan nila ito ng matutulis na sibat, saka tinakpan ng kawayan at damo.	matutulis	0.30727764011
+fil_174	filipino	Nang makita ng may-ari si Martin, agad itong pinukol ng isang bigkis ng tingting!	may-ari	0.24860738901
+fil_175	filipino	Malapit na kasi sa araw mismo ng Pasko ang Disyembre .	mismo	0.147860626106
+fil_176	filipino	Inalis niya ito muli at ngumiti.	muli	0.17731860079
+fil_177	filipino	Sa dumi ng usok muntik na siyang maiyak.	muntik	0.16594177261999998
+fil_178	filipino	Dito tinugtog ang pambansang awit na musika ni Julian Felipe.	musika	0.15661018973
+fil_179	filipino	Marami ang naawa sa kanila.	naawa	0.14955907428
+fil_180	filipino	Nakangiti ang bata na tila natutuwa sa nagaganap na di-pantay na labanan.	nagaganap	0.18962079696
+fil_181	filipino	Bago buksan ang groseri nag-iinspeksiyon muna si Mister Delfin Del Pan.	nag-iinspeksiyon	0.19360858078
+fil_182	filipino	Dahil walang bahay, nagsiksik siya sa damo.	nagsiksik	0.20418258223999997
+fil_183	filipino	Lolo, ano po ba ang sekreto ninyo at napakaganda ng ilog dito? galak na tanong ko kay Lolo Isko habang nagtatampisaw sa malamig na tubig ng ilog.	nagtatampisaw	0.22166997592999999
+fil_184	filipino	Sa wakas ay naipon na ng mga hayop ang lahat ng basurang nakakalat sa Bakawan.	naipon	0.22910508447
+fil_185	filipino	"Mukha naman siyang mabait, ani ni Diwayen, ""lagi lang nakakunot ang noo."" "	nakakunot	0.20491259970999998
+fil_186	filipino	May nakasisilaw na mga relo sa kaniyang magkabilang braso.	nakasisilaw	0.16074924424
+fil_187	filipino	At noong ang meryenda namin ay sandosenang maliliit na puto.	namin	0.16321734381
+fil_188	filipino	Samantalang ako, nilalamig ang kamay at namumutla sa kaba.	namumutla	0.19114764831
+fil_189	filipino	Ang nandoon ay si Jenny.	nandoon	0.17947842943
+fil_190	filipino	Isang araw nakita ni Beberoca ang isang pangkat ng tao na nangingisda sa ilog.	nangingisda	0.23524176003
+fil_191	filipino	Ngunit narito ang masayang wakas ng lahat.	narito	0.18391815807
+fil_192	filipino	Kahit sa pagmamadali ko, nariyan ka pa rin, tumutulong at gumagabay sa akin.	nariyan	0.22092524006199998
+fil_193	filipino	Tuwing mapapasulyap ako, naroon siya lagi at ang kaniyang matang berde at misteryoso.	naroon	0.20115336481999999
+fil_194	filipino	Halika itanong natin kay Inang.	natin	0.20576251574
+fil_195	filipino	Binilog ko at ginawang maliliit na dilaw at puting bilog ang natunaw na kandila.	natunaw	0.20585575688000002
+fil_196	filipino	Oo nga, kakaiba ang kulay niya sa kanyang mga kauring pechay wika ni Basya Kalabasa na kita na ang ngalangala sa kakatawa.	ngalangala	0.21720133719999998
+fil_197	filipino	Lunes ngayon at sanlinggo na akong nasa bahay at may sakit.	ngayon	0.12918199197400002
+fil_198	filipino	Makulay ang upuan nito at kumikinang ang gara!	nito	0.17375849203
+fil_199	filipino	Naalala kong tinuruan tayo niyan nong Grade 1.	niyan	0.18274077947
+fil_200	filipino	Pero huwag niyo pong sasabihin sa kaniya.	niyo	0.15750883567
+fil_201	filipino	Sakay niyon ang mga puting dayuhan at itinuturo ang bayan ng Mactan.	niyon	0.17171902848
+fil_202	filipino	Sinusulatan ito ng numero at letra.	numero	0.15719768062
+fil_203	filipino	Nasa isang tila altar sa opisina ni Mister Delfin Del Pan.	opisina	0.16860768647000002
+fil_204	filipino	Mahina rin si Mario so paligsahan gaya ng pabilisan so pagtakbo.	pabilisan	0.25221082776000003
+fil_205	filipino	May pag-asa pa ang mundo  sabi niya.	pag-asa	0.21480167416
+fil_206	filipino	Hindi napigil ng pagbabawal ang pag-ibig nina Ilang at Edo.	pag-ibig	0.19738631279000002
+fil_207	filipino	Mahalaga ang powerhouse sa paglikha ng koryente.	paglikha	0.15435672992000002
+fil_208	filipino	Ipinagbawal din niya ang pagdadala ng gulok sa paglilibot ni Lamok.	paglilibot	0.21285095896
+fil_209	filipino	Sawa na si Peles sa araw-araw na pagliliwaliw at maghapong paglilibot kahit walang makain.	pagliliwaliw	0.19541974837
+fil_210	filipino	Nakakikita ako ng mga pagong na may mga rubi sa berdeng talukab at isang ahas na pakiwal-kiwal sa kanilang pagitan.	pagong	0.19717372831
+fil_211	filipino	Lagi siyang ginagabi sa pagpapastol kay Dupong.	pagpapastol	0.15069989335
+fil_212	filipino	Pero pagsapit ng ibang Pasko, ang sampu'y naging piso.	pagsapit	0.24421036321000006
+fil_213	filipino	Nagkabati na po kami, pagsisinungaling ko.	pagsisinungaling	0.199201910518
+fil_214	filipino	Ang storm surge o daluyong ay ang pagtaas ng tubig-dagat dahil sa bagyo.	pagtaas	0.19768901169999997
+fil_215	filipino	Mayroon din siyang mga bitbit para sa amin na isang bertdey keyk para kay Mamang at isang malaking pakete ng inuming tsokolate.	pakete	0.18530065028
+fil_216	filipino	Tinapik ng binata ang pakpak ng manok.	pakpak	0.149783394465
+fil_217	filipino	Ang puti sa watawat ay palatandaan ng dapat laging malinis ang ating puri at dangal.	palatandaan	0.20872433706000001
+fil_218	filipino	Tatakbo ang kabayo na tangay ang lukot na palda at blusa.	palda	0.21968837273000003
+fil_219	filipino	Mahina rin si Mario so paligsahan gaya ng pabilisan so pagtakbo.	paligsahan	0.23966244768
+fil_220	filipino	Hindi niya binitiwan ang pamalo ng gong.	pamalo	0.18487113321
+fil_221	filipino	Minsan sa kanilang pamamasyal sa plaza, dinala ni Lyka ang kanyang aso para maipasyal.	pamamasyal	0.25577246233
+fil_222	filipino	Nagsimulang magtayo ng pamayanan ang mga datu.	pamayanan	0.1778475972
+fil_223	filipino	Iyung pandurog ng mga prutas kina Manong Ben.	pandurog	0.22106686067999998
+fil_224	filipino	Pero may pangako ako kay Nanay.	pangako	0.19144011784499998
+fil_225	filipino	Ang panganay na si Silaw ay may ilaw na ubod ng lakas.	panganay	0.1841643881
+fil_226	filipino	Pero ang programang lagi kong pangarap para sa bertdey ni Dyisus bukas.	pangarap	0.22680373389
+fil_227	filipino	Sa pangunguna ng kanilang pinunong si Magallanes, bumaba sa pulo ang mga dayuhan.	pangunguna	0.17654692537
+fil_228	filipino	Magandang umaga po, panimula ni Miyo.	panimula	0.153113533812
+fil_229	filipino	Natakot ang pari sa ginawa ng pasol.	pari	0.14842559160000002
+fil_230	filipino	Pagbaba ng mga pasahero nerbiyos na nerbiyos sila.	pasahero	0.16080651968
+fil_231	filipino	Kayang-kaya ring pataubin ng Nanay mo ang gabundok mang labahin.	pataubin	0.16410144283999997
+fil_232	filipino	Umuwing pagod na pagod at pawang may sugat.	pawang	0.18505479043
+fil_233	filipino	Apat na batang pawisan malulusog ang katawan.	pawisan	0.17673425720000002
+fil_234	filipino	Magkano ba ang pera mo, iho? ang biglang tanong ni Lola.	pera	0.15700885341
+fil_235	filipino	Pero isang araw, pinulong sila ni Datu Puti.	pinulong	0.25715652314000004
+fil_236	filipino	Hindi nabura sa pisara ang mga equation ng FLAMES.	pisara	0.17656009738
+fil_237	filipino	Pupunta ako sa malayong pook  sabi niyang nagpagulong-gulong at nagpaikot-ikot.	pook	0.21213491716
+fil_238	filipino	Nang makita ni Tuan Putli ang asawa at ang alipin ay dagling naging poot ang kaniyang selos.	poot	0.19503943351
+fil_239	filipino	Sinabi ni Nemo ang problema niya sa dagat pero naghikab lang ito.	problema	0.20220168488
+fil_240	filipino	Kaya ang walong munting pugita ang nagtatrabaho kahit bata pa.	pugita	0.19725499145000003
+fil_241	filipino	Bagong putahe na rin ang inihahain ni Nanay.	putahe	0.18249854289
+fil_242	filipino	Para mas madaling dalhin ang mga nilalakong puto seko.	puto	0.17670893921
+fil_243	filipino	Kung gugustuhin niya, puwede siyang kumain ng buong bibingka o buko pie o keyk!	puwede	0.21345781275999998
+fil_244	filipino	Huwag kalimutan ang radyo at bateriya upang manguna sa balita at malaman kung kailangan nang umalis sa inyong bahay.	radyo	0.16868263427
+fil_245	filipino	Ilagay mo riyan sa isang kahon, tugon ni nanay.	riyan	0.18985591416
+fil_246	filipino	Tay, pupunta po pala si Miyo bukas, sabi ko habang humihigop ng sabaw ng bulalo.	sabaw	0.19575491050000002
+fil_247	filipino	Don Juan, iyong sabihin kung ano'ng sadya sa akin.	sadya	0.157625665032
+fil_248	filipino	Lumatag sa sahig ang maputlang katawan ni Raquel.	sahig	0.20264504116999998
+fil_249	filipino	Nagkani-kaniya sila ng sakop na lupain at bukirin.	sakop	0.16430343064000003
+fil_250	filipino	Sa gabi ay nagtitinda siya ng sampagita at humahabol sa mga kotse.	sampagita	0.26480534882
+fil_251	filipino	Ang hirap naman nito, Andro, sabi naman ni Miyo habang inikot-ikot ang sandok sa bandehado.	sandok	0.28295402779
+fil_252	filipino	Makagagawa kaya ako ng tali para sa saranggola ko?	saranggola	0.18960713469
+fil_253	filipino	Sige, ako na lang din ang sasagot sa Filipino.	sasagot	0.11772690952800001
+fil_254	filipino	"'Wag!"" saway ni Jenny sa alagang tuta nang bigla nitong sagpangin ang laylayan ng kaniyang bell-bottoms."	saway	0.21673224903
+fil_255	filipino	Ang nakita pala pala nila'y sampung sigarilyo ng magdaragat.	sigarilyo	0.18393546107
+fil_256	filipino	Sige na po, pakibunot na po ang mga halaman.	sige	0.17503310614
+fil_257	filipino	Hindi nga ako sigurado kung siya ang nakabunot.	sigurado	0.21575437013
+fil_258	filipino	Pagsapit ng katapusan ng buwan namumutla na si Mister Delfin Del Pan, at kahit sino'y sinisisi kung bakit nawala ang mga bumibili sa groseri.	sinisisi	0.20529012545
+fil_259	filipino	Kaya lang, naisip niya, sino ang magtuturo sa kaniyang sumulat?	sino	0.17136144503
+fil_260	filipino	Alam kong si Miyo at ako 'yon pero di namin kamukha ang sinuman sa kanila.	sinuman	0.17518288893
+fil_261	filipino	Pero huwag mo nang sirain ang friendship plant nila.	sirain	0.2314185839
+fil_262	filipino	Ang tumutubong kamatis at sitaw ay naroon pa rin sa tainga at sa likod ng tuhod niya.	sitaw	0.22240523216999997
+fil_263	filipino	Lumipad sila sa siyudad na puro ilaw.	siyudad	0.22933110188
+fil_264	filipino	Akin rin 'to sabi ni Karlo, sabay agaw ng suman na kinakain ni Karen.	suman	0.21710872553000002
+fil_265	filipino	Sa huli, sumang-ayon ang lahat na pagbilhan ng lupain nila ang mga taga-Borneo.	sumang-ayon	0.23094155622999998
+fil_266	filipino	At sapagkat talagang lumaking siyang maselan, ni ayaw padapo sa tagak at langaw.	tagak	0.19773185348
+fil_267	filipino	Salbahe talaga si Kaskasero!	talaga	0.24098951751999997
+fil_268	filipino	Dinala ni Batlog ang Tadaysag at ibinitin sa puno ng talisay sa harap ng kanyang bahay sa Tondol.	talisay	0.21741412161
+fil_269	filipino	Pero bilang inang-pugita, tamad at pabaya si Aling Oktopoda.	tamad	0.26873226898
+fil_270	filipino	Kapag nagupit na ang lahat, bubuuin at tatahiin niya ang mga ito.	tatahiin	0.18352768475
+fil_271	filipino	Ganito tawagin ang hangin para palamigin ang bahay, sabi niya.	tawagin	0.19416625383
+fil_272	filipino	Itinigil niya ang pagdodrowing sa tela na gagawin niyang shorts para sa akin.	tela	0.16666770922000002
+fil_273	filipino	Sabay nila itong kinakain habang nanonood ng kanilang paboritong palabas sa telebisyon na cartoons.	telebisyon	0.23767387319
+fil_274	filipino	Dali-dali siyang pumunta sa telepono.	telepono	0.12027918189
+fil_275	filipino	Habang kain nang kain si Matsing sa itaas, nilagyan ni Pagong ng tinik ang puno ng saging.	tinik	0.24361593435
+fil_276	filipino	Binigyan din po kami ni Jenny ng mga tsokolate at tseke na galing daw sa papa niya.	tsokolate	0.24174365234
+fil_277	filipino	Ngunit, nasira ang tulay sa malaking ilog at maraming buwaya sa ilog.	tulay	0.20307159755999998
+fil_278	filipino	Pinagtutulungan ako! sigaw niyang tumutulo ang sipon at luha.	tumutulo	0.19297675705
+fil_279	filipino	Tapos hinati ko ulit sa gitna.	ulit	0.17196578826000003
+fil_280	filipino	Nang umahon ang prinsesa, ang damit niya'y wala na.	umahon	0.19611677117999998
+fil_281	filipino	Pero hindi kami umatras ng klasmeyt ko.	umatras	0.23960099627999998
+fil_282	filipino	Naramdaman niyang parang umiikot ang paligid at nagkakagulo ang mga busina ng sasakyan.	umiikot	0.17360835306
+fil_283	filipino	Isang araw, umusbong ang isang kakaibang gulay.	umusbong	0.21532915326000002
+fil_284	filipino	Hindi yata alam ni Dina ang ibig sabihin ng hating kapatid.	yata	0.16076240304999997
+fil_285	filipino	Pinuntahan ni Indarapatra ang yungib ni Omaka-an.	yungib	0.23170444524
+fil_286	filipino	Hanggang ngayon buhay pa!	buhay	0.22601737293000002
+fil_287	filipino	Banayad ito tulad ng dagat matamis tulad ng mauulang araw.	dagat	0.19823131045
+fil_288	filipino	Tumigil muna sa pag-aaral si Pitong.	pag-aaral	0.15119535301
+fil_289	filipino	Pero pagdating sa lupa ni Daginding, walang maniwalang sa buwan siya galing.	lupa	0.22262318800999997
+fil_290	filipino	Maraming hamon ang kinakaharap ng paaralan tulad ng mga batang galing sa Mindanao.	hamon	0.21511654706000002
+fil_291	filipino	May pag-asa pa ang mundo  sabi niya.	mundo	0.17875164406
+fil_292	filipino	Sumilip siya sa kuwarto ng mga magulang niya para malaman kung gising na sila.	magulang	0.21614430495999998
+fil_293	filipino	Ang bagyo ay masamang panahong nabubuo sa kanlurang bahagi ng Karagatang Pasipiko.	bahagi	0.166374430282
+fil_294	filipino	"Idiniklara ng mayor ang ""Enhanced Community Quarantine o ECQ"" sa buong lungsod kaya hindi na puwedeng lumabas ang mga bata at matatanda."	lungsod	0.18495182959
+fil_295	filipino	Ang kawalan mo ng ilaw ang nagpapabukod-tangi sa iyo, malambing na wika ni Donya Luz.	kawalan	0.20459382233
+fil_296	filipino	Maganda ang tanawin mula sa aking puwesto.	tanawin	0.17717399929
+fil_297	filipino	Lumayo ka sa mga bagay na puwedeng matumba.	bagay	0.15106167791199998
+fil_298	filipino	Anong gulo ang ginawa mo sa iyong mga damdamin!	gulo	0.17143413645
+fil_299	filipino	Dapat dagdagan natin kahit papaano.	dagdagan	0.20640302638
+fil_300	filipino	Pero sa kabila ng kanilang sitwasyon sa buhay ay masasabi nilang may kulang pa rin.	sitwasyon	0.29305275803999997
+fil_301	filipino	Dahil walang ani, nagkaroon ng matinding kakulangan sa pagkain.	kakulangan	0.16479749579
+fil_302	filipino	Ubo ubo lang ang tunog na kaya niyang ibuga.	tunog	0.18373563629
+fil_303	filipino	Naku, hindi ko rin kabisado ang mga produkto, mga pangkat etniko, mga anyong lupa at tubig ng bawat lalawigan sa bawat rehiyon ng Filipinas.	rehiyon	0.17888495933
+fil_304	filipino	Hindi na ulit nakalabas ng daan si Kaskasero.	daan	0.1812596522
+fil_305	filipino	Si Fu Dalu ang espiritu ng abaka.	espiritu	0.18148908186999999
+fil_306	filipino	Sa simula tahimik lamang na lumuha ang prinsipe.	simula	0.20344829363
+fil_307	filipino	Magkano kaya ang kabuuang halaga nito?	halaga	0.18664428728
+fil_308	filipino	Ito ang kumokontrol sa operasyon ng lokomotora.	operasyon	0.21201959200999998
+fil_309	filipino	Iba-iba ang paksa ng school play pero laging masayang manood non.	paksa	0.25555273805
+fil_310	filipino	Tatlong piraso ang kinuha ni Kuya at ang natitira'y sa akin na.	piraso	0.16724520065999998
+fil_311	filipino	Gumamit ako ng pulang krayola sa pagsulat ng liham pasasalamat sa aking ina.	liham	0.18154045609
+fil_312	filipino	Nahulog sa hukay si Busol.	hukay	0.21938237492
+fil_313	filipino	Malayo sa nayon ang kuweba.	nayon	0.24259860564
+fil_314	filipino	Pati ang mga manlalaro ng futbol, alam niya.	manlalaro	0.17706577297
+fil_315	filipino	Pero sa dami ng iniisip ko'y nalimutan ko na.	iniisip	0.20716042782000002
+fil_316	filipino	Ang pangit na ng tirahan natin  sabi ni Danggit.	tirahan	0.16658158429
+fil_317	filipino	Pero kung anuman ang desisyon mo, nandito lang naman ako para sumuporta sa iyo.	desisyon	0.19068107135999998
+fil_318	filipino	Kailangang alam ng bawat miyembro ng pamilya kung saan ito nakalagay.	pamilya	0.14093808870000002
+fil_319	filipino	Manipis at puting-puti ang kasuotan ng babae at palutang-lutang habang tumatakbo.	kasuotan	0.15773716940000002
+fil_320	filipino	Iyon ang dahilan kaya malalim ang dagat ngayon.	dahilan	0.20142080408
+fil_321	filipino	Magsasalita na sana ang batang babae nang nagpatuloy si Ignacia.	babae	0.139814785912
+fil_322	filipino	O, mas masarap 'yan kung may kasamang inihaw na niyog!	inihaw	0.25141121917
+fil_323	filipino	Naisip kong idaan sa pagsubok ang pagpili paliwanag ng sultan matapos mag-isip.	pagsubok	0.22225538302000003
+fil_324	filipino	Lihim niyang itinangis ang pagkawala ng kanyang kasintahan.	pagkawala	0.14834025511
+fil_325	filipino	May isang basong tubig at limang ibon na uhaw.	uhaw	0.19473135794
+fil_326	filipino	Galing sa mga hula sa isang magasin.	hula	0.16943365893
+fil_327	filipino	Isang araw nagkaroon ng lindol at baha.	lindol	0.15464875763
+fil_328	filipino	Ngayon na ang katapusan mo!	katapusan	0.14926188895999998
+fil_329	filipino	Patay ang buhok niya.	buhok	0.109132505352
+fil_330	filipino	Pagkaraan ng ilang oras na pahinga maglalaro na ulit ako.	pahinga	0.19829799346000002
+fil_331	filipino	Para sa mga nakatira malapit sa kabundukan, alamin kung nasa panganib ang inyong lugar dahil sa landslide.	panganib	0.21280090941999996
+fil_332	filipino	Sagisag ng Pasko ay pista ng bata at mahal ng Diyos ang pobre at dukha.	Diyos	0.18530625211
+fil_333	filipino	At doo'y napansin ko ang maraming pagbabago sa kaniyang hitsura.	pagbabago	0.23183590845
+fil_334	filipino	Wala namang makatutol sa kanyang kalupitan dahil maraming mandirigma ang sultan.	kalupitan	0.19275757542
+fil_335	filipino	At narinig ko ang magandang musika na gawa ng lumang makina.	gawa	0.13204123867
+fil_336	filipino	Minsan sa kanilang paglalayag biglang dumating ang bagyong malakas.	paglalayag	0.17428773182600002
+fil_337	filipino	Tumutulong ito sa paghubog ng pagkakaisa natin, ang pagiging isport.	pagkakaisa	0.23460070288999998
+fil_338	filipino	Ang mga serbidor ay nakasuot ng puting-puting amerikana.	amerikana	0.15664963135999999
+fil_339	filipino	Wala siyang awa kahit sa maliliit.	awa	0.149413550142
+fil_340	filipino	Si Ama ang haligi ng tahanan.	haligi	0.15855158052
+fil_341	filipino	Sana ipagmalaki ako sa lahat ng bahay at lugar sa lahat ng pagtitipon at pagdiriwang ng mga Filipino.	pagtitipon	0.18213905071
+fil_342	filipino	Nalungkot man ako sa pagkasira nito, ngunit lalo akong humanga sa kaniya habang tinitingnan ko siya.	pagkasira	0.21582538534
+fil_343	filipino	Inilagay ng pastol ang mangkok sa tabi ng puno.	pastol	0.23301572288
+fil_344	filipino	Ang Swiza naman noon ay sakop ng Austria at nasa ilalim ng gobernador na si Gessler.	gobernador	0.17999081253000002
+fil_345	filipino	Kitang-kita ang kasiyahan sa mukha nila.	kasiyahan	0.143737636294
+fil_346	filipino	Konting dilig pa at tiyak na tanim mo'y tutubo.	tiyak	0.18980805221
+fil_347	filipino	Nag tangka siyang layasan ang prinsesa.	tangka	0.125335533306
+fil_348	filipino	Doon sa libingan ng mga walang modo hindi na makapagyabang si Kaskasero.	libingan	0.20135228281999998
+fil_349	filipino	Ngunit si Mario ay may kaunting pagkakaiba kaysa so ibang mga bata.	pagkakaiba	0.22241988591
+fil_350	filipino	Sa pag-akyat pa lang sa hagdan, hirap na ako kaya kailangang dahan-dahan.	pag-akyat	0.24602212945000002
+fil_351	filipino	Kung hindi mo alam ang sagot, sabay ninyong alamin sa pamamagitan ng pagbisita sa aklatan o pagsasaliksik sa Internet.	pamamagitan	0.20068811154
+fil_352	filipino	Tambak kasi ang mga gawain sa kusina, lalo na kapag may piging o may darating na mga bisita.	piging	0.20848890248999996
+fil_353	filipino	Puro alikabok ang mga upuan sa tindahan.	upuan	0.17435639242
+fil_354	filipino	Gumawa ng mga ID at ilagay dito ang pangangailangan ng bawat miyembro ng iyong pamilya.	pangangailangan	0.19086878913
+fil_355	filipino	Isang araw, nakita ko si Nanay na naglalaba ng mga sako ng semento.	sako	0.21448524522999998
+fil_356	filipino	Apat na tipak ng bato.	tipak	0.19644719789
+fil_357	filipino	Makagagawa kaya ako ng tali para sa saranggola ko?	tali	0.16032440741
+fil_358	filipino	Pagdating sa ilog lumusong ang Katyaw kasunod ang walang-imik na prinsipe.	lumusong	0.2555475075
+fil_359	filipino	Di yata matuwid naman, na sa iyong kalooban ako ay mapakasal kay Don Pedrong Tampalasan?	matuwid	0.18839129758
+fil_360	filipino	Maraming salamat po Panginoon at dininig mo ang aming kahilingan, naisaloob ni Mang Pedring habang papalabas ng pagawaan.	papalabas	0.24023126039000003
+fil_361	filipino	Kinumpiska ng mga Hapon ang mga nakaimbak na bigas.	nakaimbak	0.21048186412000003
+fil_362	filipino	At huwag kang mahiyang makihalo sa ibang alitaptap.	makihalo	0.1806690195
+fil_363	filipino	Gabi-gabi, nakagawian na ni Lola na ako'y kuwentuhan.	nakagawian	0.22461679043000002
+fil_364	filipino	Pero pumuslit si Makisig nang malingat ang mga kawal at nakausap niya si Lapu-Lapu.	pumuslit	0.2706329238
+fil_365	filipino	Nagpapasalamat ako sa Diyos dahil pinagkalooban niya kami ng nanay mo ng mabubuting anak.	pinagkalooban	0.12502608777000002
+fil_366	filipino	Gusto ko maging isa sa mga mahuhusay mag futbol.	mahuhusay	0.178404821855
+fil_367	filipino	Bakit hindi nagasgas ang balat ko nang humimas at humaplos siya sa akin?	humaplos	0.18633159835000002
+fil_368	filipino	Ang leche flan, malambot at matamis sa aking dila.	malambot	0.19958520804
+fil_369	filipino	Minsan, nalulungkot din ako.	nalulungkot	0.143039569316
+fil_370	filipino	Madalas ay nagkukulong siya sa kaniyang kuwarto para lamang makaiwas sa mga tao.	makaiwas	0.21783181004
+fil_371	filipino	Tinulungan ko siyang hatiin sa gitna ang apat na saging na saba bago lutuin.	hatiin	0.18945328478
+fil_372	filipino	Mamamatay din po ako, hagulhol ng dalaga.	hagulhol	0.19103288726
+fil_373	filipino	Potpot, tigilan na ang pagkain ng tsitsirya at sa halip, kumain ng masustansiyang pagkain tulad ng gulay, prutas, isda at karne.	tigilan	0.25495060364
+fil_374	filipino	Inasikaso ko na ang mga damit ko para sa biyahe papuntang Manila	inasikaso	0.15349992874
+fil_375	filipino	Dapat ginawaran siya ng award noong highschool.	ginawaran	0.22482906681000003
+fil_376	filipino	Unang sinalakay nina Bonifacio ang deposito ng pulbura sa San Juan.	pulbura	0.20165531744999998
+fil_377	filipino	Masarap at mainam ang mag-ampon ng kuting.	mainam	0.16944949144
+fil_378	filipino	Ang French TGV ay kayang umandar sa bilis na milya kada oras.	umandar	0.23028538176999996
+fil_379	filipino	Kahit anong gawin mo, hindi mo pwedeng bitiwan ang manibela.	bitiwan	0.19399456601999998
+fil_380	filipino	Mula noon, marami nang mga guro, mga empleyado, at mag-aaral sa kolehiyo ang nagpapatahi kay Nanay.	kolehiyo	0.16253149047999998
+fil_381	filipino	At hinahanap ko din ang kapares nitong medyas.	kapares	0.19145717806
+fil_382	filipino	Susmaryosep! ang sigaw ng alalay na nerbiyoso.	alalay	0.22584884729
+fil_383	filipino	Napulot na lamang ng Prinsipe ang kabiyak ng sapatos ng dalaga.	kabiyak	0.18251119021
+fil_384	filipino	Nang muling tangayin ng malalaking alon palayo sa dalampasigan ang mga isda.	tangayin	0.24993452993
+fil_385	filipino	Halos mawalan siya ng hininga.	hininga	0.16619090227
+fil_386	filipino	Ang kalusugan ay kayamanan yan ang madalas sabihin ni Tatay.	kayamanan	0.16069033687
+fil_387	filipino	Kailangang sa tamang tawiran lang tumawid para iwas- disgrasya.	tawiran	0.21267637637999998
+fil_388	filipino	Sa ginawang pag-aaral ng mga eksperto sa University of California, natuklasan na nakakapagpabilis ng metabolismo ang tsokolate.	eksperto	0.19877054543
+fil_389	filipino	Magpadala ng liham sa mga opisyal ng pamahalaan.	opisyal	0.17633568095
+fil_390	filipino	Bagong hinango ang pan de sal sa hurnong pinaglutuan.	hinango	0.25143195235
+fil_391	filipino	Mayroong inalsa si Tatay na isang kahon.	inalsa	0.24362785807
+fil_392	filipino	Taong nang magbalik ang mga Amerikano sa Filipinas, sumuko ang mga Hapon, at tuluyang natapos ang giyera.	sumuko	0.19908717717000002
+fil_393	filipino	Madilim ang buong paligid maliban sa kakarampot na liwanag na sumisilip mula sa makipot na bintana sa itaas ng selda.	makipot	0.19043300778
+fil_394	filipino	Isang gabi, matiyaga akong nagmasid sa tabing ilog.	nagmasid	0.13726542945
+fil_395	filipino	Biglang naramdaman ni Danas ang patak ng ulan.	naramdaman	0.22501070492
+fil_396	filipino	Nakakain ka nga ba ng pandikit Bianca?	pandikit	0.14932732342
+fil_397	filipino	Kailangan batiin ang lahat ng estudyanteng makakasalubong.	batiin	0.15704309755999998
+fil_398	filipino	Bakit po nakatambak lang dito?	nakatambak	0.24991816276
+fil_399	filipino	Ilang beses siyang naduro ng karayom habang nagsusulsi at ibig niyang mabuwisit.	nagsusulsi	0.27159387536
+fil_400	filipino	Kung nakatira malapit sa bulkan, isama ang proteksiyon sa mata at disposable breathing mask sa inyong emergency bag.	proteksiyon	0.18043522421000002
+fil_401	filipino	Noon din, sinubok niya ang gamit ng lambat.	sinubok	0.17932929318
+fil_402	filipino	Apektado ang kabuhayan ng mga residente ng Eastern Samar matapos manalasa ng bagyong Ambo nitong buwan ng Abril.	manalasa	0.138086332296
+fil_403	filipino	Kinalabit ng prinsipe ang Katyaw.	Kinalabit	0.2284385322
+fil_404	filipino	Tuwang-tuwa sila ng makatuklas ng unang pugad ng pawikan sa buhanginan.	makatuklas	0.24963531103000003
+fil_405	filipino	Anong hayop yang ginuguhit mo?	ginuguhit	0.18916197691999997
+fil_406	filipino	May dalawa kasing sagabal sa groundbreaking ceremony ng Botanical Garden Project namin.	sagabal	0.16735972803
+fil_407	filipino	Hindi kaya ako ay kaniyang ibalibag nang buong lakas o ihagis na parang balibol?	ihagis	0.22622009406
+fil_408	filipino	Bakit bigla kang lumaki iho? ang sabi niya sa akin habang kinukusot ang buhok ko.	kinukusot	0.17123391065
+fil_409	filipino	At para hindi sumampa ang alon sa lupa nagtambak siya ng mga bato at korales sa mga baybayin at tabing-dagat .	sumampa	0.24402268245999997
+fil_410	filipino	Bru-hi-hi-hi-hi-hi  ang hagikgik niya.	hagikgik	0.19566977641
+fil_411	filipino	Napadaan siya sa isang kantong may nakahimpil na kotse ng sundalo.	nakahimpil	0.23904165650999998
+fil_412	filipino	Madulas, malansa, at makunat ang balat.	makunat	0.16300792182
+fil_413	filipino	Nang iluwal sa ospital si Perla, nahinto kami sa pag-aaral ni Mila.	iluwal	0.23006507596999998
+fil_414	filipino	Nasilayan ni Carl ang ganda ng tatlong pulong animo'y tulad ng bangkang naglalayag sa kalmadong karagatan.	naglalayag	0.24495929520999998
+fil_415	filipino	Tanong ni Tatay nang madatnan niyang ako na lang ang nasa sala.	madatnan	0.17447705855
+fil_416	filipino	Biglang dumistansiya si Miyo.	dumistansiya	0.20252878916
+fil_417	filipino	Maririnig ang kantyawan at hagikgikan sa malawak na hardin ni Mang Kanor.	kantyawan	0.176483764282
+fil_418	filipino	Hindi pwede gamitin ang mahikang salamangka.	salamangka	0.24677838123
+fil_419	filipino	Ngunit pagdilat niya, nag-iisa pa rin siya.	pagdilat	0.26134508334
+fil_420	filipino	Kaya dali-dali niyang kinuha ang reserba sa likod at pinalitan.	reserba	0.22207467087
+fil_421	filipino	May kakatwa may nakakatakot at may magagandang bagay.	kakatwa	0.28853306365
+fil_422	filipino	Mukhang malapot na malapot na ba?	malapot	0.19073095100999998
+fil_423	filipino	Pinabalik naman si Kapitan Lara sa Laguna nang mag-alsa ang mga Pilipino roon laban sa pagsasamantala ng mga Espanyol.	pagsasamantala	0.22266729051
+fil_424	filipino	Ang hirap palang tanggalin ng mga nanigas na semento sa sako.	semento	0.21708572155
+fil_425	filipino	Magalit habang pinupulot ang nabungi niyang postiso.	nabungi	0.20154201246
+fil_426	filipino	Baka kailangan na raw siyang salinan ng dugo at bigyan ng panibagong gamot.	salinan	0.17365834305
+fil_427	filipino	Doon muna tayo titira sa Tiya Guring mo sa Malabon, kahit pansamantala lamang.	pansamantala	0.17500296921
+fil_428	filipino	Mula sa palasyo, natanaw siya ng sakim na Datu.	natanaw	0.21412049745
+fil_429	filipino	Kaya nang bahagya siyang kumilos, natibag ang kanyang tinutungtungan.	natibag	0.25694317678
+fil_430	filipino	Pusod-dagat ay lumalim, mga alon ay dumilim, at ang lihim kung tuklasin ngayo'y dapat na sisirin.	tuklasin	0.2576724475
+fil_431	filipino	Kapag ikaw ay kalma humihinga ka nang marahan at matalim.	marahan	0.20370879680000004
+fil_432	filipino	Gusto ng aking lolo na mamalagi sila sa loob ng bahay.	mamalagi	0.16721021932
+fil_433	filipino	Poot daw ng diwatang Lalawon ang nagdulot ng mga balang, ayon sa haka-haka ng marami.	nagdulot	0.2466504752
+fil_434	filipino	Dahil naakit sa magandang anyo ni Ginmayunan.	naakit	0.15531859292
+fil_435	filipino	Sa umaga'y magigisnan ang kaniyang kahilingan.	magigisnan	0.18534482806000002
+fil_436	filipino	Ngunit kahit pa kamangha-mangha nang talaga ang kaniyang hitsura, ni hindi man lang napakurap ang nanay ni Miguel.	napakurap	0.29420940481
+fil_437	filipino	Naglaro ako sa dilaw na duyan at nagpadausdos sa dilaw na islayd bago kumain na dilaw na sorbetes.	nagpadausdos	0.27830798331999995
+fil_438	filipino	Nagpapabilis ang kemikal na ito ng daloy ng dugo na patungo sa utak.	kemikal	0.23251527289
+fil_439	filipino	Inimbento ni Hablom ang unang panghabi ng danit mulang abaka.	panghabi	0.25258897159
+fil_440	filipino	Sa pagitan ng paghikbi, sumagi sa isip niya ang tatay na ayaw na ayaw nito na binabatukan siya ng mga kalaro	sumagi	0.21594849368000002
+fil_441	filipino	Sa kamalig ni Meyor nagtago at lumilim sina Jun-Jun, Bitoy, Enteng, Clara, at Tin-Tin.	lumilim	0.21206924296
+fil_442	filipino	Wala sa loob na inusal ni Sula ang dalangin kay Fu Dalu.	inusal	0.20814376322
+fil_443	filipino	Mahal kong mga kaklase at guro, ako pong muli si Jenny Romero, nagmumungkahing magsagawa tayo ng beauty contest.	nagmumungkahing	0.21740768493
+fil_444	filipino	Kaya pala kung ganoon na lang punasan at langisan ni Nanay ang lumang makina.	langisan	0.17811780172
+fil_445	filipino	Ito ay pinaaandar ng apat na malalaking makina, na nakapagpapalipad dito sa sukdulang bilis na milya kada oras.	sukdulang	0.23899298576
+fil_446	filipino	Bukang liwayway pa lamang ay bukas na ang batchoyan ng mag-asawa.	liwayway	0.22462112103999998
+fil_447	filipino	Nakita kong ipinsa rin niya ang note na may pangalan ni Miyo pagkatapos sumagot.	ipinsa	0.25866436807000004
+fil_448	filipino	Pag may maumbok na kutson, pitpit dito, pitpit doon.	maumbok	0.20037259286
+fil_449	filipino	Hindii ko matarok ang hangganan.	matarok	0.1784958986
+fil_450	filipino	At akong pitong taong gulang, agad nasabak sa hanapbuhay.	nasabak	0.16972796411
+fil_451	filipino	Sa Espanya, ang mga imahen ng Birhen ay kumikislap sa hiyas at magarang damit.	magarang	0.20813249903000003
+fil_452	filipino	Agad-agad na isinibat ni Diwayen ang sanga.	isinibat	0.20169062315
+fil_453	filipino	Nagpulong ang mga magiting na mandirigma.	magiting	0.14304202436
+fil_454	filipino	Masaya po ba kayo sa engrandeng Clubs Day namin?	engrandeng	0.16354417935999999
+fil_455	filipino	Sumalakay ang mga katipunero sa pamumuno ni Bonifacio.	pamumuno	0.17371625072
+fil_456	filipino	Bakit hindi nagasgas ang balat ko nang humimas at humaplos siya sa akin?	humimas	0.17230158229
+fil_457	filipino	Pinahiga agad ng matadero si Pikpakbum.	matadero	0.22573895441
+fil_458	filipino	Puro alikabok ang mga estante sa tindahan.	estante	0.20049908160000002
+fil_459	filipino	Kwento pa niya, ngayon lang sila nakaranas ng ganitong kalamidad.	nakaranas	0.21074479421999998
+fil_460	filipino	Nang magsabog si Bathala ng milagro at biyaya, itong dilis lamang yata ang nahuli sa balita.	milagro	0.26305290482
+fil_461	filipino	Binibili namin ang mga ito sa halagang singkuwenta sentimos ang isang piraso.	sentimos	0.17813490416
+fil_462	filipino	Nariyan din ang piko na ang kailangang pamato ay puwedeng isang maliit na bato na nasa tabi-tabi lamang.	pamato	0.23781954905999997
+fil_463	filipino	Naku, baka matisod ang papasok.	matisod	0.22112965998999998
+fil_464	filipino	Oo pero mas maganda kung kakabitan pa natin ng mga bulaklak.	kakabitan	0.24367242212
+fil_465	filipino	May bombilya sa ulo.	bombilya	0.174312859818
+fil_466	filipino	Bro-ho-ho-ho-ho-ho  ang halaklak ko.	halaklak	0.23638632048000002
+fil_467	filipino	Naawa ako sa kaniya at inalalayan ko siya.	inalalayan	0.116014438562
+fil_468	filipino	Sila'y agad napatungo Sa bahay ng ermitanyo at naghain ng pagkain.	naghain	0.17252339964000002
+fil_469	filipino	At nagkunwari namang galit si Wujan.	nagkunwari	0.22576629901
+fil_470	filipino	Sa harap ni Datu Usman, buong dangal na iniharap ang mga basket.	iniharap	0.22645972455000002
+fil_471	filipino	Hindi na gagana ang magic power ko!	gagana	0.22154346893
+fil_472	filipino	Huhuni ang takore ng mainit na tubig.	takore	0.21490792549999999
+fil_473	filipino	Sa ibaba'y tumanaw ka, may bahay kang makikita.	tumanaw	0.22684655747
+fil_474	filipino	Puno na ang lalagyan ng mga bagahe.	bagahe	0.19756925994000002
+fil_475	filipino	Maya-maya, isinauli niya ang retrato sa akin.	isinauli	0.19196592143
+fil_476	filipino	Pagkaraan ng ikatlong buwan, maaari nang matiyak ang aking kasarian.	matiyak	0.20685359216
+fil_477	filipino	Puwede na akong umidlip kahit saan.	umidlip	0.18748445447
+fil_478	filipino	Doon, napagtanto nila na dapat pala talagang mangarap na makapagtapos ng pag-aaral.	napagtanto	0.25379045568
+fil_479	filipino	Halos pagpawisan si Lola nang nakita niya na kumakaluskos ang palaspas sa aming bintana.	palaspas	0.2196020548
+fil_480	filipino	Kapag hinihigop ni Busol ang tubig sa ilog, walang mainom ang mga Ibaloy.	hinihigop	0.25568038638
+fil_481	filipino	Ang katawa'y hinipo na at hinilot.	hinipo	0.22084311139
+fil_482	filipino	Minsan napatingala si Mister Delfin Del Pan at nasipat ang isang dumi sa singit ng poste at kisame ng groseri.	kisame	0.21975833741
+fil_483	filipino	Dilaw na biskuwit ang aking meryenda.	biskuwit	0.26965721517999997
+fil_484	filipino	Hinahalo ito sa gasolinang susunugin ng mga makinang raket.	makinang	0.17835768783
+fil_485	filipino	Tatlo ang masugid sa panunuyo.	masugid	0.19509291164
+fil_486	filipino	Sa galit, pinukol ni Tuhan ng kidlat si Nur Muhammad.	pinukol	0.2345364089
+fil_487	filipino	Trust and courage, ngumisi si Louis.	ngumisi	0.19810666448
+fil_488	filipino	At sa isang iglap, nakabulagta na sa lupa ang hayop, iigik-igik habang nakatusok sa likod nito ang matulis na sanga.	nakabulagta	0.32530233696
+fil_489	filipino	Isalaysalay muli ang buong kuwentong nabasa sa tulong ng mga balangkas ng story strips na may larawan.	balangkas	0.24324851635
+fil_490	filipino	Di naglaon tumalab ang sumpa ng diwata.	tumalab	0.22780700613
+fil_491	filipino	Nang binyagan ako, galante ang Ninong ko.	galante	0.21591660755
+fil_492	filipino	Bakit hindi nagasgas ang balat ko nang humimas at humaplos siya sa akin?	nagasgas	0.19755852950000002
+fil_493	filipino	Maging alerto sa kondisyon ng ulan.	alerto	0.140824152032
+fil_494	filipino	Sinamsam nila ang mga suklay, hikaw, singsing, at iba pang alahas na may ginto.	alahas	0.19800910958999998
+fil_495	filipino	Bigla, may narinig siyang kaluskos at bulungan sa may likodbakod.	kaluskos	0.18148151145
+fil_496	filipino	Matagal at lubhang nakababagot ang biyahe.	nakababagot	0.26965817628
+fil_497	filipino	Pinaikot-ikot niya si Mamang, saka hinapit palapit, at hinawakan nang marahan.	hinapit	0.23753107102
+fil_498	filipino	Isang araw, nakita ko siya na pumipili ng mga retaso ng tela sa mga kahon na imbakan niya nito.	retaso	0.22489831626000004
+fil_499	filipino	Gumawa ako ng kahel na pulseras gamit ang kahel na sinulid at mga butil.	pulseras	0.15477203879999998
+fil_500	filipino	Pag nag-umaga na, pagsilay ng liwanag, malakas na ulit ang loob ni Ching.	pagsilay	0.22900245852
+fil_501	filipino	Ako ang hari ng kalsada ang katwiran niya.	katwiran	0.157086700666
+fil_502	filipino	Naisip niya na kailangang pahalagahan ang mga gamit para hindi ito mawala.	pahalagahan	0.21745955296000002
+fil_503	filipino	Kung hindi mo alam ang sagot, sabay ninyong alamin sa pamamagitan ng pagbisita sa aklatan o pagsasaliksik sa Internet.	pagsasaliksik	0.23814740982
+fil_504	filipino	Doon ay iyong daratnan, isang ermitanyong mahal.	daratnan	0.19141255327
+fil_505	filipino	Napadaan kami sa aming bahay at minabuti kong yayain siyang pumasok para makapagpahinga.	yayain	0.18886711149000002
+fil_506	filipino	Pagdating sa itaas, lahat ng mapitas ay kaniyang kinakain.	mapitas	0.15965939025
+fil_507	filipino	Ako ang taliang tambing at aking sisiyasatin itong sakdal dilim.	sisiyasatin	0.20413119094999999
+fil_508	filipino	Walang magawa ang mga taganayon laban sa mga bandido.	taganayon	0.18737800617999997
+fil_509	filipino	Umiral ang kasakiman ng Datu at pumayag sa mga hiling ni Pilandok.	kasakiman	0.22681293355999999
+fil_510	filipino	Pero palayain po ninyo ang mga bilanggo at isauli na ninyo ang mga gintong sinamsam ng mga kawal sa taumbayan.	sinamsam	0.24924602828
+fil_511	filipino	Gabi-gabi'y nakalatag ito sa sahig.	nakalatag	0.23396380527
+fil_512	filipino	Pagkahawak ay talian at gapusin mong matibay.	gapusin	0.17527374149000002
+fil_513	filipino	Ada, maaari mo bang basahin ang unang taludtod ng tula?	taludtod	0.22255524618
+fil_514	filipino	Kapag inampon ninyo ako puwede akong humiga sa mga importanteng papeles ng nanay at tatay mo para hindi tangayin ng hangin.	inampon	0.22973077058999997
+fil_515	filipino	Ang simbahang ito ay kasinluma ng mga sinaunang bagay sa museo.	sinaunang	0.24455225302
+fil_516	filipino	Naiwan ko po ang aking busog at palaso sa aming bahay.	palaso	0.1158070747
+fil_517	filipino	Nagkukumpulan ang naglalakihang kalabasa, berdeng kangkong, saluyot at malunggay, malulusog na talong at marami pang iba.	saluyot	0.210470072564
+fil_518	filipino	Pero bakit hindi mahapdi ang himas ni Nanay?	mahapdi	0.21542456904
+fil_519	filipino	Laging siya ang bida o kaya ang kontrabida o kaya ang diwata.	kontrabida	0.2282978883
+fil_520	filipino	Pero ang asenso ay di makamit.	asenso	0.24519880029
+fil_521	filipino	Muling nakalaya ang mga kapatid ni Dindo.	nakalaya	0.23426031307
+fil_522	filipino	May sinenyasan siya sa likod.	sinenyasan	0.16560411023000002
+fil_523	filipino	Nang malaman ito ng diwata isinumpa rin niya ang lahat ng lalaking hindi marunong tumanggap ng kabiguan sa pag-ibig.	isinumpa	0.21950316811999998
+fil_524	filipino	Pero winasak ni Yuki ang eksenang iyon.	winasak	0.24984675049
+fil_525	filipino	At sinaklot niya si Ewagan.	sinaklot	0.18387138135
+fil_526	filipino	Alam ko na kasi ang mga ganong dayalog ni Tatay.	dayalog	0.18317228589
+fil_527	filipino	 Ang lupa ay umugong na.	umugong	0.15892149277
+fil_528	filipino	Dalawang kamoteng matigas ang kanilang pinapak hanggang sila'y tugisin ng dalawang bayawak.	tugisin	0.22479495937
+fil_529	filipino	Namangha ako sa aking nakita nang idinilat ko ang aking mga mata.	idinilat	0.15666587245
+fil_530	filipino	Kaya kahit biglang alon ay pumihit at sa hanging malakas layag ay napunit.	pumihit	0.25233826754
+fil_531	filipino	Mayroong ibat ibang hugis at laki ang mga pampasaherong jet, mula sa Airbus na kayang magsakay ng mahigit pasahero, hanggang sa mga pribadong jet tulad ng Falcon X.	pribadong	0.27474916443999997
+fil_532	filipino	Pero ang programang lagi kong pangarap para sa bertdey ni Dyisus bukas.	programang	0.21734545137
+fil_533	filipino	Inabot ko sa kaniya ang isang koleksiyon ng blocks.	koleksiyon	0.1721654432
+fil_534	filipino	Natatakot silang baka manalakay ang mga isda.	manalakay	0.16660910130999998
+fil_535	filipino	Ang daming nasasayang na pera sa pagiging bulagsak niya at kawalan ng responsabilidad.	bulagsak	0.23675913655000003
+fil_536	filipino	Noong araw, pagkatapos anihin ang tuba, pinasasakay si Juanito ng tatay niya sa kalabaw	anihin	0.25390616286
+fil_537	filipino	Tahimik ang napili nilang pook sa bundok at sagana sa prutas at hayop na makakain.	sagana	0.166510498
+fil_538	filipino	Kung ang retasong tela'y di basta pupunitin, puwede itong kortina, kumot, laso, at punda ng unan ni Martin.	retasong	0.28215589923
+fil_539	filipino	Nang damputin ang tinapay ay napaso pa ang kamay	damputin	0.20193744305
+fil_540	filipino	Sumangguning muli siya sa arsobispo ngang sadya.	arsobispo	0.23877339807999998
+fil_541	filipino	Ibig niyang malaman kung gaano kalubha ang ginawang pinsala ng malaking baha.	pinsala	0.14562025131
+fil_542	filipino	Hindi siya maselan kahit ang bango-bango niya at ako'y amoy-araw.	maselan	0.17881837398
+fil_543	filipino	Ngayon itong pobreng Dilis Katulad ng maliliit, Lumalangoy nang palihis Sa bungangang mababangis.	palihis	0.229720853
+fil_544	filipino	Ngunit napailing din si Hanging Kanluran at dinala muli siya sa pinakamatanda.	napailing	0.23431242462000001
+fil_545	filipino	Walang digmaan at walang sanhi ng kasalanan dahil sagana sa pagkain ang magandang paligid at kakaunti pa lamang ang mga tao.	digmaan	0.20051441986000001
+fil_546	filipino	Kung paanurin na lang natin patungo sa karagatan?	paanurin	0.2567112049
+fil_547	filipino	Umupo na lang ako, sinusulyapan-sulyapan si Miyo kung sakaling sumusulyap din siya sa akin.	sumusulyap	0.15298517786
+fil_548	filipino	At kahit umuulan, maghapon silang umawit para daw sumigla ang mga punlang kamatis.	sumigla	0.2590597597
+fil_549	filipino	Galit na galit na kinaladkad ng Katyaw ang prinsipe pabalik sa palasyo.	kinaladkad	0.22941802451999999
+fil_550	filipino	Parating nakikilahok si Maria sa mga patimpalak sa paaralan.	nakikilahok	0.15162380573000003
+fil_551	filipino	Ay, nakangiti pa rin ako habang tinitingala siya.	tinitingala	0.21100401106
+fil_552	filipino	Maaaring magbitak ang sementadong pader o sahig.	magbitak	0.32733226105
+fil_553	filipino	Si Potpot ay binansagang payatot dahil sa tabas ng pangangatawan nito, manipis, patpatin at mahina.	patpatin	0.26632919659
+fil_554	filipino	Sasayaw sa bangketa ang mga taga-aksesorya at entresuwelo.	bangketa	0.18418933195
+fil_555	filipino	May pagdududang tanong si Miyo.	pagdududang	0.2615562383
+fil_556	filipino	Nakangiting tumugon sina Aling Trixie at Mang Buboy sa masayang bati ng anak.	tumugon	0.19332350366
+fil_557	filipino	Nay, ano pong nangyari? mausisang tanong ko sa kanya.	mausisang	0.21386722439
+fil_558	filipino	Nais kong ipabatid sa inyo ang pagtatapos ng ating klase ngayong araw, masayang wika ng guro.	ipabatid	0.20007437996
+fil_559	filipino	Minsan napatingala si Mister Delfin Del Pan at nasipat ang isang dumi sa singit ng poste at kisame ng groseri.	nasipat	0.22039083662000003
+fil_560	filipino	Tama na 'yang harutan ni'yo!	harutan	0.155849900152
+fil_561	filipino	Tuwang-tuwa naman si Mang Apolo na pagmasdan ang mga batang masasayang naglalaro sa kaniyang hardin.	pagmasdan	0.25231484084
+fil_562	filipino	Para mas madaling dalhin ang mga nilalakong puto seko.	nilalakong	0.20800773666
+fil_563	filipino	Nakaahong matiwasay sa bayang kinalalagyan.	matiwasay	0.1459040387
+fil_564	filipino	Mabilis na tumakbo si Pikpakbum at tinangay ang kapirasong karne.	tinangay	0.17849524361000002
+fil_565	filipino	Botika-bituka-butiki! Ugong ng bentilador ang bigkas ni Kuya!	bentilador	0.26757370501
+fil_566	filipino	Nang pabagsakin nina Lapu-Lapu si Magallanes, biglang nagsiurong ang mga dayuhan.	nagsiurong	0.218357978
+fil_567	filipino	Hindi alintana ng dalawang bata ang maaaring sakuna na maidudulot nito.	maidudulot	0.169306720806
+fil_568	filipino	Nang magsuntukan ang puti, lungtian, lila, dilaw, at iba pang kulay, nagmantsa ang madilim na lungtian sa kaniyang balat.	nagmantsa	0.23417596415
+fil_569	filipino	Lumabas ka riyan! Biglang yumanig ang lupa dahil sa yabag bi Omaka-an.	yumanig	0.24755944083999998
+fil_570	filipino	Lahat ng iyon ay bilang pasasalamat sa kaligtasan ni Prinsesa Lunhaw at pagpupugay sa kadakilaan ni Diwayen.	kadakilaan	0.23248972534
+fil_571	filipino	Ngumiti ang birhen kay Fray Fernando at marahang bumaba patungo sa kanya.	marahang	0.15388435131
+fil_572	filipino	May naghiyawan sa mga kapitbahay at halos sabay-sabay na lumiwanag ang mga kabahayan.	naghiyawan	0.2185525445
+fil_573	filipino	Hindi, bumagal ang paghingal niya.	paghingal	0.19510237395000002
+fil_574	filipino	Sa ceremony, nagsalita si Prinsipal Gretel tungkol sa halaga ng pagkakaroon ng parehong interes para magkasundo ang mga tao.	interes	0.17538880228
+fil_575	filipino	Trabungko! malakas na sigaw ko sabay karipas ng takbo pabalik sa bahay ni Lolo.	karipas	0.16737754242
+fil_576	filipino	Lumakas ang salakay ng mga Esapanyol.	salakay	0.24199639325999997
+fil_577	filipino	Raquel gusto mo itirintas ko ang buhok mo?	itirintas	0.19195475960000002
+fil_578	filipino	Ang katawa'y inumog na ng bunsong kapatid.	inumog	0.19560865400000002
+fil_579	filipino	Isang lalaking edad na madalas pumunta sa isang bulwagang panalanginang Muslim sa lungsod ng San Juan.	bulwagang	0.21805330539999998
+fil_580	filipino	Una, napadpad sila sa isang dagat na kulay dugo.	napadpad	0.26346826157000003
+fil_581	filipino	Nang bulatlatin nito ang isang piraso ng nutribun, may maliit na supot na plastik sa loob nito.	bulatlatin	0.31463129396
+fil_582	filipino	Ginagamit din ito sa pagkokompone ng satellite.	pagkokompone	0.22418992814999997
+fil_583	filipino	Patutulong ako sa aking mga kaibigan, pahayag ng binatilyong si Balitok.	binatilyong	0.25050931192
+fil_584	filipino	Wala ka talagang masabi, ngumingisi si Jenny.	ngumingisi	0.23285527370000003
+fil_585	filipino	Pero mas nakakatakam ang dalawang cake sa mesa.	nakakatakam	0.23716404355999998
+fil_586	filipino	Maaaring gawin at palitan ang kargamento pero hindi maaaring gawin at palitan ang tao.	kargamento	0.23302326331999998
+fil_587	filipino	O siguro sinasabotahe mo ako.	sinasabotahe	0.17745669173
+fil_588	filipino	Ngunit hindi dumaing kay Terengati ang tagalangit.	dumaing	0.19243253911999997
+fil_589	filipino	Buwan ng paggunita sa mga yumao at buwan din ng paligsahan sa English at Filipino.	yumao	0.21895502859
+fil_590	filipino	Tinuruan din siya ng tatay niyang manghuli ng bangus at dalag sa mga palaisdaan sa paligid ng bayan.	palaisdaan	0.25891539045
+fil_591	filipino	Isang kabanata na ang pamagat ay Unang Pagkikita.	kabanata	0.23921250234999997
+fil_592	filipino	Nasunog naman ang tangke ng panggatong habang nalalaglag ito pabalik ng Daigdig.	panggatong	0.28720091021
+fil_593	filipino	May dalang hanging mas mabilis pa sa kumakaripas na dyip.	kumakaripas	0.22481249325
+fil_594	filipino	Lumusong sila sa tubig na hanggang tuhod ang lalim at sabik nilang hinihintay ang pagsalpok sa dalampasigan ng malalaking alon.	pagsalpok	0.28038479006999995
+fil_595	filipino	Walang-walang laban ang napakalaking kaiman sa napakalakas at napakamakapangyarihang si Lam-ang.	napakamakapangyarihang	0.20557303682
+fil_596	filipino	At sa sakong isinakbat makikita ang matalas na espwelas.	isinakbat	0.20723822762
+fil_597	filipino	Bukod sa malinis at maayos, maaliwalas din ang aming silid-aralan.	maaliwalas	0.25867096168
+fil_598	filipino	Milan sa paaralan upang magturo sa mga bata at magbigay ng kaniyang kalinga at pagmamahal.	kalinga	0.127609721846
+fil_599	filipino	Sa pamamagitan ng masining na pagkukuwento gamit ang aklat na ito.	masining	0.2017185984
+fil_600	filipino	Maghapon at magdamag dumadagundong nang malakas ang Kulog.	dumadagundong	0.19375708973

@@ -1,0 +1,570 @@
+fr_31	french	On peut y voir que les préjugés sur les garçons et les filles apparaissent dès le plus jeune âge...	préjugés	0.9706730842590332
+fr_32	french	On peut y voir que les préjugés sur les garçons et les filles apparaissent dès le plus jeune âge...	apparaissent	0.8510040044784546
+fr_33	french	On peut y voir que les préjugés sur les garçons et les filles apparaissent dès le plus jeune âge...	voir	0.02865251898765564
+fr_34	french	L'incivisme révèle un problème de responsabilité individuelle et de sens collectif.	incivisme	0.9570962190628052
+fr_35	french	Aujourd'hui, le journalisme participatif est normalisé et bien intégré.	participatif	0.8976399898529053
+fr_36	french	Aujourd'hui, le journalisme participatif est normalisé et bien intégré.	normalisé	0.8893085718154907
+fr_37	french	Aujourd'hui, le journalisme participatif est normalisé et bien intégré.	intégré	0.9090392589569092
+fr_38	french	Je me rappelle bien le jour du mariage.	mariage	0.5345903635025024
+fr_39	french	Je me rappelle bien le jour du mariage.	rappelle	0.2179274559020996
+fr_40	french	Je me rappelle bien le jour du mariage.	jour	0.03667154908180237
+fr_41	french	D'ailleurs, beaucoup d'enseignants admettent que parfois les méthodes classiques ne suffisent plus.	admettent	0.844295084476471
+fr_42	french	D'ailleurs, beaucoup d'enseignants admettent que parfois les méthodes classiques ne suffisent plus.	parfois	0.8548548221588135
+fr_43	french	D'ailleurs, beaucoup d'enseignants admettent que parfois les méthodes classiques ne suffisent plus.	classiques	0.6890559196472168
+fr_44	french	Il a un défi à relever, si possible dans des contrées inconnues.	relever	0.8286975026130676
+fr_45	french	Il a un défi à relever, si possible dans des contrées inconnues.	défi	0.2388094961643219
+fr_46	french	Il a un défi à relever, si possible dans des contrées inconnues.	contrées	0.957197904586792
+fr_47	french	Les moments que nous avons passés ensemble ne t'ont pas beaucoup marquée...	moments	0.3949001431465149
+fr_48	french	Les moments que nous avons passés ensemble ne t'ont pas beaucoup marquée...	marquée	0.8764951229095459
+fr_49	french	Les moments que nous avons passés ensemble ne t'ont pas beaucoup marquée...	passés	0.4070671498775482
+fr_50	french	Ils ont l'habitude de se rencontrer, de partir ensemble en week-end, d'organiser des voyages ou des fêtes qui sont pour eux l'occasion de se retrouver.	habitude	0.5108368396759033
+fr_51	french	Ils ont l'habitude de se rencontrer, de partir ensemble en week-end, d'organiser des voyages ou des fêtes qui sont pour eux l'occasion de se retrouver.	occasion	0.6481809020042419
+fr_52	french	Ils ont l'habitude de se rencontrer, de partir ensemble en week-end, d'organiser des voyages ou des fêtes qui sont pour eux l'occasion de se retrouver.	retrouver	0.8392612934112549
+fr_53	french	Et soudain... le parallèle entre la malbouffe et l'infobésité devient une évidence : mon flux d'infos me gave de nouvelles absolument inutiles.	malbouffe	0.7997146248817444
+fr_54	french	Et soudain... le parallèle entre la malbouffe et l'infobésité devient une évidence : mon flux d'infos me gave de nouvelles absolument inutiles.	évidence	0.7614070773124695
+fr_55	french	Et soudain... le parallèle entre la malbouffe et l'infobésité devient une évidence : mon flux d'infos me gave de nouvelles absolument inutiles.	gave	0.7613609433174133
+fr_56	french	Oui, les souvenirs évoluent avec l'âge, avec notre imagination et avec les histoires qu'on nous a transmises.	souvenirs	0.8138609528541565
+fr_57	french	Oui, les souvenirs évoluent avec l'âge, avec notre imagination et avec les histoires qu'on nous a transmises.	transmises	0.8736511468887329
+fr_58	french	Oui, les souvenirs évoluent avec l'âge, avec notre imagination et avec les histoires qu'on nous a transmises.	évoluent	0.6452046632766724
+fr_59	french	Et puis, j'aime tout ce qui entoure la musique : composer des textes, partir en tournée avec sa troupe...	composer	0.2952941060066223
+fr_60	french	Et puis, j'aime tout ce qui entoure la musique : composer des textes, partir en tournée avec sa troupe...	tournée	0.4308498501777649
+fr_61	french	Et puis, j'aime tout ce qui entoure la musique : composer des textes, partir en tournée avec sa troupe...	troupe	0.9108822345733643
+fr_62	french	Les étudiants s'habillent comme ils veulent, avec un accessoire de leur choix qui révèle leur plus grande passion.	accessoire	0.8828135132789612
+fr_63	french	Les étudiants s'habillent comme ils veulent, avec un accessoire de leur choix qui révèle leur plus grande passion.	passion	0.5194500088691711
+fr_64	french	Les étudiants s'habillent comme ils veulent, avec un accessoire de leur choix qui révèle leur plus grande passion.	révèle	0.8459889888763428
+fr_65	french	Et que les touristes sujets au mal de mer se rassurent : les cabines pivoteraient des roulements à billes de sorte que les chambres  demeurent toujours à l'horizontale.	pivoteraient	0.9432252645492554
+fr_66	french	Et que les touristes sujets au mal de mer se rassurent : les cabines pivoteraient des roulements à billes de sorte que les chambres  demeurent toujours à l'horizontale.	demeurent	0.895332932472229
+fr_67	french	Et que les touristes sujets au mal de mer se rassurent : les cabines pivoteraient des roulements à billes de sorte que les chambres  demeurent toujours à l'horizontale.	touristes	0.6687477827072144
+fr_68	french	Mais il ne participerait pas à une initiative citoyenne pour défendre l'environnement.	participerait	0.7023510932922363
+fr_69	french	Mais il ne participerait pas à une initiative citoyenne pour défendre l'environnement.	initiative	0.7538743019104004
+fr_70	french	Mais il ne participerait pas à une initiative citoyenne pour défendre l'environnement.	défendre	0.8142217397689819
+fr_71	french	Même les fumeurs, au bout du compte, sont majoritairement satisfaits car l'interdiction totale sur leur lieu de travail leur permet de réduire leur consommation.	fumeurs	0.7727276086807251
+fr_72	french	Même les fumeurs, au bout du compte, sont majoritairement satisfaits car l'interdiction totale sur leur lieu de travail leur permet de réduire leur consommation.	satisfaits	0.8664783239364624
+fr_73	french	Même les fumeurs, au bout du compte, sont majoritairement satisfaits car l'interdiction totale sur leur lieu de travail leur permet de réduire leur consommation.	majoritairement	0.9362666606903076
+fr_74	french	Même les fumeurs, au bout du compte, sont majoritairement satisfaits car l'interdiction totale sur leur lieu de travail leur permet de réduire leur consommation.	réduire	0.93583083152771
+fr_75	french	Docteur Grise, spécialiste du cerveau, a répondu aux questions de nos lecteurs à propos de la mémoire et des souvenirs.	spécialiste	0.8295993804931641
+fr_76	french	Docteur Grise, spécialiste du cerveau, a répondu aux questions de nos lecteurs à propos de la mémoire et des souvenirs.	mémoire	0.6956723928451538
+fr_77	french	Docteur Grise, spécialiste du cerveau, a répondu aux questions de nos lecteurs à propos de la mémoire et des souvenirs.	cerveau	0.7056249380111694
+fr_78	french	Avec un CDI (contrat à durée indéterminée), un employé ne peut être licencié que pour faute grave ou problème dans l'entreprise.	licencié	0.8055777549743652
+fr_79	french	Avec un CDI (contrat à durée indéterminée), un employé ne peut être licencié que pour faute grave ou problème dans l'entreprise.	faute	0.7565701007843018
+fr_80	french	Avec un CDI (contrat à durée indéterminée), un employé ne peut être licencié que pour faute grave ou problème dans l'entreprise.	grave	0.7490742802619934
+fr_81	french	Le financement participatif permet de nous aider pour la saison.	financement	0.7731386423110962
+fr_82	french	Le financement participatif permet de nous aider pour la saison.	participatif	0.8417252898216248
+fr_83	french	Le financement participatif permet de nous aider pour la saison.	saison	0.5221490859985352
+fr_84	french	Or, je viens de recevoir ma facture pour le mois de novembre et je constate que vous me comptez un mois de consommation normale.	constate	0.6774658560752869
+fr_85	french	Or, je viens de recevoir ma facture pour le mois de novembre et je constate que vous me comptez un mois de consommation normale.	facture	0.6730927228927612
+fr_86	french	Or, je viens de recevoir ma facture pour le mois de novembre et je constate que vous me comptez un mois de consommation normale.	comptez	0.3132947087287903
+fr_87	french	Les prix récompensent 35 jeunes francophones âgés de 18 à 35 ans qui ont des réalisations exceptionnelles à leur actif.	réalisations	0.9598190784454346
+fr_88	french	Les prix récompensent 35 jeunes francophones âgés de 18 à 35 ans qui ont des réalisations exceptionnelles à leur actif.	récompensent	0.9030579328536987
+fr_89	french	Les prix récompensent 35 jeunes francophones âgés de 18 à 35 ans qui ont des réalisations exceptionnelles à leur actif.	exceptionnelles	0.8572924137115479
+fr_90	french	Être funambule, ce n'est pas un métier, c'est une manière de vivre.	funambule	0.9569104909896851
+fr_91	french	Être funambule, ce n'est pas un métier, c'est une manière de vivre.	métier	0.3453696370124817
+fr_92	french	Être funambule, ce n'est pas un métier, c'est une manière de vivre.	manière	0.4203507602214813
+fr_93	french	Je sens que ces gens-là m'ennuient, me méconnaissent et m'outragent.	méconnaissent	0.9577406048774719
+fr_94	french	Je sens que ces gens-là m'ennuient, me méconnaissent et m'outragent.	ennuient	0.3901274800300598
+fr_95	french	Je sens que ces gens-là m'ennuient, me méconnaissent et m'outragent.	outragent	0.9805554151535034
+fr_96	french	Ils appartiennent à deux principales catégories: les narcissiques et les atermoyeurs.	narcissiques	0.9820733666419983
+fr_97	french	Ils appartiennent à deux principales catégories: les narcissiques et les atermoyeurs.	atermoyeurs	0.9679275751113892
+fr_98	french	Ils appartiennent à deux principales catégories: les narcissiques et les atermoyeurs.	catégories	0.8518264293670654
+fr_99	french	Il provoquera de nombreuses catastrophes comme des intempéries et des ouragans.	catastrophes	0.9033124446868896
+fr_100	french	Il provoquera de nombreuses catastrophes comme des intempéries et des ouragans.	intempéries	0.9395859241485596
+fr_101	french	Il provoquera de nombreuses catastrophes comme des intempéries et des ouragans.	ouragans	0.9188885688781738
+fr_102	french	Ces derniers ont exprimé leur colère contre l'augmentation du prix des produits de la vie quotidienne via les réseaux sociaux.	augmentation	0.8912582397460938
+fr_103	french	Ces derniers ont exprimé leur colère contre l'augmentation du prix des produits de la vie quotidienne via les réseaux sociaux.	produits	0.24407655000686646
+fr_104	french	Ces derniers ont exprimé leur colère contre l'augmentation du prix des produits de la vie quotidienne via les réseaux sociaux.	exprimé	0.7750055193901062
+fr_105	french	ça m'exalte, parce que là-bas, loin, très loin, en France, mes frères ne le vivront jamais et les amis que j'ai laissés derrière moi, au lycée, au lendemain du bac philo, eux aussi ont raté cette formidable aventure.	exalte	0.9418290853500366
+fr_106	french	ça m'exalte, parce que là-bas, loin, très loin, en France, mes frères ne le vivront jamais et les amis que j'ai laissés derrière moi, au lycée, au lendemain du bac philo, eux aussi ont raté cette formidable aventure.	formidable	0.8684596419334412
+fr_107	french	ça m'exalte, parce que là-bas, loin, très loin, en France, mes frères ne le vivront jamais et les amis que j'ai laissés derrière moi, au lycée, au lendemain du bac philo, eux aussi ont raté cette formidable aventure.	amis	0.06862860918045044
+fr_108	french	Stromae dit ne pas juger ces comportements mais les dénoncer.	juger	0.6879424452781677
+fr_109	french	Stromae dit ne pas juger ces comportements mais les dénoncer.	comportements	0.8440831899642944
+fr_110	french	Stromae dit ne pas juger ces comportements mais les dénoncer.	dénoncer	0.9232960939407349
+fr_111	french	Ce qui est aliment ici ne l'est pas ailleurs, ce qui est consommable pour les uns ne l'est pas pour les autres...	aliment	0.5508912801742554
+fr_112	french	Ce qui est aliment ici ne l'est pas ailleurs, ce qui est consommable pour les uns ne l'est pas pour les autres...	consommable	0.9276870489120483
+fr_113	french	La situation que nous vivons ici devrait pourtant vous préoccuper, car tous les territoires seront tôt ou tard touchés.	situation	0.46987593173980713
+fr_114	french	La situation que nous vivons ici devrait pourtant vous préoccuper, car tous les territoires seront tôt ou tard touchés.	préoccuper	0.8522219061851501
+fr_115	french	La situation que nous vivons ici devrait pourtant vous préoccuper, car tous les territoires seront tôt ou tard touchés.	territoires	0.7577638626098633
+fr_116	french	Le nombre a minima de variétés recensées dans le monde, sans compter les espèces apparentées (produisant des tubercules).	variétés	0.8044097423553467
+fr_117	french	Le nombre a minima de variétés recensées dans le monde, sans compter les espèces apparentées (produisant des tubercules).	recensées	0.9202395677566528
+fr_118	french	Le nombre a minima de variétés recensées dans le monde, sans compter les espèces apparentées (produisant des tubercules).	apparentées	0.9718530178070068
+fr_119	french	Les articles sont écrits par des  amateurs.	articles	0.3045588731765747
+fr_120	french	Les articles sont écrits par des  amateurs.	écrits	0.837630033493042
+fr_121	french	Les articles sont écrits par des  amateurs.	amateurs	0.8912773132324219
+fr_122	french	Je suis avide de culture.	avide	0.942620038986206
+fr_123	french	je suis avide de culture.	culture	0.5802853107452393
+fr_124	french	Aujourd'hui, on publie et on vend.	publie	0.27298641204833984
+fr_125	french	Aujourd'hui, on publie et on vend.	vend	0.3478350043296814
+fr_126	french	En France, les élections suivantes sont organisées pour élire qui ?	élections	0.8314151763916016
+fr_127	french	En France, les élections suivantes sont organisées pour élire qui ?	suivantes	0.519618809223175
+fr_128	french	En France, les élections suivantes sont organisées pour élire qui ?	organisées	0.8773404359817505
+fr_129	french	Les scientifiques ont étudié l'évolution des poissons.	scientifiques	0.9546202421188354
+fr_130	french	Les scientifiques ont étudié l'évolution des poissons.	évolution	0.5344540476799011
+fr_131	french	Les scientifiques ont étudié l'évolution des poissons.	poissons	0.8716139793395996
+fr_132	french	Des barques lourdes propulsées par huit à dix rameurs s'avancent l'une vers l'autre.	barques	0.9683736562728882
+fr_133	french	Des barques lourdes propulsées par huit à dix rameurs s'avancent l'une vers l'autre.	propulsées	0.937087893486023
+fr_134	french	Des barques lourdes propulsées par huit à dix rameurs s'avancent l'une vers l'autre.	rameurs	0.7594068646430969
+fr_135	french	Le coût de leur création n'excède pas quelques dizaines de milliers d'euros.	coût	0.6621851921081543
+fr_136	french	Le coût de leur création n'excède pas quelques dizaines de milliers d'euros.	excède	0.9172838926315308
+fr_137	french	Le coût de leur création n'excède pas quelques dizaines de milliers d'euros.	création	0.5240039825439453
+fr_138	french	Souvent les gens me trouvent fier et pompeux de l'extérieur alors que je suis totalement humble dans mon rapport à l'humanité.	pompeux	0.8587806224822998
+fr_139	french	Souvent les gens me trouvent fier et pompeux de l'extérieur alors que je suis totalement humble dans mon rapport à l'humanité.	humble	0.8300548195838928
+fr_140	french	Souvent les gens me trouvent fier et pompeux de l'extérieur alors que je suis totalement humble dans mon rapport à l'humanité.	fier	0.41799020767211914
+fr_141	french	Et c'est ce qu'elles ont fait, avec courage et détermination, grâce à un flashmob de protestation que je vous laisse découvrir.	courage	0.7082122564315796
+fr_142	french	Et c'est ce qu'elles ont fait, avec courage et détermination, grâce à un flashmob de protestation que je vous laisse découvrir.	protestation	0.8389509320259094
+fr_143	french	Et c'est ce qu'elles ont fait, avec courage et détermination, grâce à un flashmob de protestation que je vous laisse découvrir.	détermination	0.9182734489440918
+fr_144	french	Si les lettres étaient de meilleure qualité, le taux de lecture serait plus important.	taux	0.7738173007965088
+fr_145	french	Si les lettres étaient de meilleure qualité, le taux de lecture serait plus important.	lecture	0.5714137554168701
+fr_146	french	Si les lettres étaient de meilleure qualité, le taux de lecture serait plus important.	important	0.6529910564422607
+fr_147	french	Il a ainsi évoqué dans un de ses discours un attentat terroriste en Suède qui n'avait jamais eu lieu.	évoqué	0.44604387879371643
+fr_148	french	Il a ainsi évoqué dans un de ses discours un attentat terroriste en Suède qui n'avait jamais eu lieu.	discours	0.6896424293518066
+fr_149	french	Il a ainsi évoqué dans un de ses discours un attentat terroriste en Suède qui n'avait jamais eu lieu.	attentat	0.8579296469688416
+fr_150	french	Les bons présages : Les Haïtiens pensent qu'une main gauche qui gratte est le signe d'une prochaine rentrée d'argent.	présages	0.9646739959716797
+fr_151	french	Les bons présages : Les Haïtiens pensent qu'une main gauche qui gratte est le signe d'une prochaine rentrée d'argent.	gratte	0.7960516214370728
+fr_152	french	Les bons présages : Les Haïtiens pensent qu'une main gauche qui gratte est le signe d'une prochaine rentrée d'argent.	rentrée	0.6019766926765442
+fr_153	french	Nous avons quelques compositions à nous mais nous faisons surtout des reprises de chansons françaises pour les arranger à notre manière.	compositions	0.7560542821884155
+fr_154	french	Nous avons quelques compositions à nous mais nous faisons surtout des reprises de chansons françaises pour les arranger à notre manière.	arranger	0.6050335764884949
+fr_155	french	Nous avons quelques compositions à nous mais nous faisons surtout des reprises de chansons françaises pour les arranger à notre manière.	chansons	0.4978349208831787
+fr_156	french	Le sujet : En juin 2013, Snowden, un ancien agent de la NSA (l'agence de renseignement américaine), a révélé que celle-ci collectait des données sur tous les citoyens du monde.	agent	0.3230155408382416
+fr_157	french	Le sujet : En juin 2013, Snowden, un ancien agent de la NSA (l'agence de renseignement américaine), a révélé que celle-ci collectait des données sur tous les citoyens du monde.	renseignement	0.8992761373519897
+fr_158	french	Le sujet : En juin 2013, Snowden, un ancien agent de la NSA (l'agence de renseignement américaine), a révélé que celle-ci collectait des données sur tous les citoyens du monde.	collectait	0.8993672132492065
+fr_159	french	Comme aux débuts de la science-fiction, on perçoit un bel esprit d'enfance.	débuts	0.8269039392471313
+fr_160	french	Comme aux débuts de la science-fiction, on perçoit un bel esprit d'enfance.	perçoit	0.6627074480056763
+fr_161	french	Comme aux débuts de la science-fiction, on perçoit un bel esprit d'enfance.	esprit	0.537206768989563
+fr_162	french	Faites également attention aux adresses usurpées des e-commerçants	usurpées	0.9573546051979065
+fr_163	french	Faites également attention aux adresses usurpées des e-commerçants	adresses	0.3924139440059662
+fr_164	french	Mais nous aspirons à pouvoir laisser le bâton au vestiaire et compter sur chaque habitant pour que le respect l'emporte sur l'individualisme.	aspirons	0.845589280128479
+fr_165	french	Mais nous aspirons à pouvoir laisser le bâton au vestiaire et compter sur chaque habitant pour que le respect l'emporte sur l'individualisme.	emporte	0.9116511344909668
+fr_166	french	Mais nous aspirons à pouvoir laisser le bâton au vestiaire et compter sur chaque habitant pour que le respect l'emporte sur l'individualisme.	individualisme	0.9807442426681519
+fr_167	french	En naskapi, certains mots sont impossibles à traduire, et un seul mot peut avoir plusieurs significations.	mots	0.08702555298805237
+fr_168	french	En naskapi, certains mots sont impossibles à traduire, et un seul mot peut avoir plusieurs significations.	impossibles	0.898566484451294
+fr_169	french	En naskapi, certains mots sont impossibles à traduire, et un seul mot peut avoir plusieurs significations.	significations	0.975293755531311
+fr_170	french	Celle que le fameux prospectiviste et conseiller de nombreux chefs d'État Jeremy Rifkin appelle la « troisième révolution industrielle ».	prospectiviste	0.8899847269058228
+fr_171	french	Celle que le fameux prospectiviste et conseiller de nombreux chefs d'État Jeremy Rifkin appelle la « troisième révolution industrielle ».	fameux	0.7795816659927368
+fr_172	french	Celle que le fameux prospectiviste et conseiller de nombreux chefs d'État Jeremy Rifkin appelle la « troisième révolution industrielle ».	conseiller	0.625846266746521
+fr_173	french	Or, ce discours est contredit dans la réalité.	discours	0.5967695713043213
+fr_174	french	Or, ce discours est contredit dans la réalité.	contredit	0.8127801418304443
+fr_175	french	Or, ce discours est contredit dans la réalité.	réalité	0.7830694913864136
+fr_176	french	Anne Hidalgo a déclaré que cette mesure était importante pour lutter contre les stéréotypes de genre et les violences subies par les femmes dans l'espace public.	mesure	0.6302968263626099
+fr_177	french	Anne Hidalgo a déclaré que cette mesure était importante pour lutter contre les stéréotypes de genre et les violences subies par les femmes dans l'espace public.	stéréotypes	0.9352339506149292
+fr_178	french	Anne Hidalgo a déclaré que cette mesure était importante pour lutter contre les stéréotypes de genre et les violences subies par les femmes dans l'espace public.	subies	0.8961260318756104
+fr_179	french	«On estime que le tabagisme passif est à l'origine d'environ 3000 décès par an en France», souligne le professeur Dautzenberg.	estime	0.576332151889801
+fr_180	french	«On estime que le tabagisme passif est à l'origine d'environ 3000 décès par an en France», souligne le professeur Dautzenberg.	décès	0.5648770332336426
+fr_181	french	«On estime que le tabagisme passif est à l'origine d'environ 3000 décès par an en France», souligne le professeur Dautzenberg.	souligne	0.7849149703979492
+fr_182	french	Dans la culture populaire, le futur époux arrive à la cérémonie (qui ne dure que 2 à 3 heures !) sur un cheval décoré, avec sa famille et ses amis l'accompagnant avec des chants	époux	0.6927757263183594
+fr_183	french	Dans la culture populaire, le futur époux arrive à la cérémonie (qui ne dure que 2 à 3 heures !) sur un cheval décoré, avec sa famille et ses amis l'accompagnant avec des chants	populaire	0.8351235389709473
+fr_184	french	Dans la culture populaire, le futur époux arrive à la cérémonie (qui ne dure que 2 à 3 heures !) sur un cheval décoré, avec sa famille et ses amis l'accompagnant avec des chants	cérémonie	0.6766343712806702
+fr_185	french	Car en parcourant le manifeste, on se rend compte qu'il existe encore bien des écarts qui nous démontrent que tout n'est pas encore gagné.	manifeste	0.8750104308128357
+fr_186	french	Car en parcourant le manifeste, on se rend compte qu'il existe encore bien des écarts qui nous démontrent que tout n'est pas encore gagné.	écarts	0.9629197120666504
+fr_187	french	Car en parcourant le manifeste, on se rend compte qu'il existe encore bien des écarts qui nous démontrent que tout n'est pas encore gagné.	démontrent	0.865207314491272
+fr_188	french	Le permis de construire pour le projet de deux immeubles prévu en 2020 dans le 13e a été délivré le 22 septembre.	immeubles	0.6967528462409973
+fr_189	french	Le permis de construire pour le projet de deux immeubles prévu en 2020 dans le 13e a été délivré le 22 septembre.	délivré	0.9026659727096558
+fr_190	french	Le permis de construire pour le projet de deux immeubles prévu en 2020 dans le 13e a été délivré le 22 septembre.	projet	0.16500797867774963
+fr_191	french	C'est une attitude un peu égoïste, mais moi, je reste cool, je ne fais pas de remarques aux autres sur leurs défauts.	attitude	0.5336237549781799
+fr_192	french	C'est une attitude un peu égoïste, mais moi, je reste cool, je ne fais pas de remarques aux autres sur leurs défauts.	remarques	0.5343706011772156
+fr_193	french	C'est une attitude un peu égoïste, mais moi, je reste cool, je ne fais pas de remarques aux autres sur leurs défauts.	égoïste	0.9635039567947388
+fr_194	french	Le taxi tourne dans une petite rue dont elle n'a pas le temps de déchiffrer le nom sur la plaque bleue et s'arrête devant une porte cochère.	déchiffrer	0.9264376759529114
+fr_195	french	Le taxi tourne dans une petite rue dont elle n'a pas le temps de déchiffrer le nom sur la plaque bleue et s'arrête devant une porte cochère.	plaque	0.6246746778488159
+fr_196	french	Le taxi tourne dans une petite rue dont elle n'a pas le temps de déchiffrer le nom sur la plaque bleue et s'arrête devant une porte cochère.	rue	0.05272689461708069
+fr_197	french	Il faudra évidemment bien plus que ce type d'action pour espérer endiguer le fléau.	type	0.17628878355026245
+fr_198	french	Il faudra évidemment bien plus que ce type d'action pour espérer endiguer le fléau.	endiguer	0.9792912006378174
+fr_199	french	Il faudra évidemment bien plus que ce type d'action pour espérer endiguer le fléau.	fléau	0.9855473637580872
+fr_200	french	Avant que la folie meurtrière des hommes se soit déchaînée, Bujumbura capitale du Burundi, était une ville où Gabriel et sa bande de copains vivaient heureux.	folie	0.64654541015625
+fr_201	french	Avant que la folie meurtrière des hommes se soit déchaînée, Bujumbura capitale du Burundi, était une ville où Gabriel et sa bande de copains vivaient heureux.	bande	0.8018652200698853
+fr_202	french	Avant que la folie meurtrière des hommes se soit déchaînée, Bujumbura capitale du Burundi, était une ville où Gabriel et sa bande de copains vivaient heureux.	copains	0.5318549275398254
+fr_203	french	Les jeunes sont les premières victimes de la pauvreté, selon le rapport : elle touche près de 900 000 enfants de moins de 10 ans, soit plus d'un sur dix.	victimes	0.8535919189453125
+fr_204	french	Les jeunes sont les premières victimes de la pauvreté, selon le rapport : elle touche près de 900 000 enfants de moins de 10 ans, soit plus d'un sur dix.	touche	0.6965473890304565
+fr_205	french	Les jeunes sont les premières victimes de la pauvreté, selon le rapport : elle touche près de 900 000 enfants de moins de 10 ans, soit plus d'un sur dix.	rapport	0.42931732535362244
+fr_206	french	La capitale bretonne perd des points avec quelques critères comme le nombre d'heures de soleil par an, où Marseille, Toulouse et Bordeaux brillent, mais aussi l'offre culturelle, dominée par Paris, ou le nombre de restaurants gastronomiques.	critères	0.816196084022522
+fr_207	french	La capitale bretonne perd des points avec quelques critères comme le nombre d'heures de soleil par an, où Marseille, Toulouse et Bordeaux brillent, mais aussi l'offre culturelle, dominée par Paris, ou le nombre de restaurants gastronomiques.	brillent	0.8935164213180542
+fr_208	french	La capitale bretonne perd des points avec quelques critères comme le nombre d'heures de soleil par an, où Marseille, Toulouse et Bordeaux brillent, mais aussi l'offre culturelle, dominée par Paris, ou le nombre de restaurants gastronomiques.	gastronomiques	0.9660170078277588
+fr_209	french	De même, votre implication auprès d'une association met en valeur non seulement vos savoir-faire techniques et sociaux, mais également votre savoir-être.	implication	0.6953710317611694
+fr_210	french	De même, votre implication auprès d'une association met en valeur non seulement vos savoir-faire techniques et sociaux, mais également votre savoir-être.	savoir-faire	0.2043134719133377
+fr_211	french	De même, votre implication auprès d'une association met en valeur non seulement vos savoir-faire techniques et sociaux, mais également votre savoir-être.	sociaux	0.8355666399002075
+fr_212	french	Dans certaines filières professionnelles, on trouve des classes carrément exsangues avec 30 % d'élèves manquant à l'appel!	filières	0.8597559928894043
+fr_213	french	Dans certaines filières professionnelles, on trouve des classes carrément exsangues avec 30 % d'élèves manquant à l'appel!	exsangues	0.9505041241645813
+fr_214	french	Dans certaines filières professionnelles, on trouve des classes carrément exsangues avec 30 % d'élèves manquant à l'appel!	classes	0.35251033306121826
+fr_215	french	Lors de mon premier voyage au Sikkim je me rappelle t'avoir écrit de là mon rêve d'une demeure dans ces parages avec un jardin fleuri d'hortensias bleus.	demeure	0.6376556158065796
+fr_216	french	Selon une enquête Ifop-Fiducial réalisée en novembre 2018, près de 70 % des personnes interrogées éprouvent de la sympathie pour le mouvement.	éprouvent	0.9241536855697632
+fr_217	french	Selon une enquête Ifop-Fiducial réalisée en novembre 2018, près de 70 % des personnes interrogées éprouvent de la sympathie pour le mouvement.	sympathie	0.8650970458984375
+fr_218	french	Selon une enquête Ifop-Fiducial réalisée en novembre 2018, près de 70 % des personnes interrogées éprouvent de la sympathie pour le mouvement.	réalisée	0.9338493347167969
+fr_219	french	Avant de partir loin du cocon familial, il est utile de se renseigner sur les conditions d'hébergement du pays d'accueil...	cocon	0.9050401449203491
+fr_220	french	Avant de partir loin du cocon familial, il est utile de se renseigner sur les conditions d'hébergement du pays d'accueil...	conditions	0.7890868782997131
+fr_221	french	Avant de partir loin du cocon familial, il est utile de se renseigner sur les conditions d'hébergement du pays d'accueil...	hébergement	0.819297194480896
+fr_222	french	Son maquillage, sa gestuelle, ses vêtements, sa coiffure : tout est préparé pour renforcer le contraste entre les deux personnages qu'il joue.	renforcer	0.888959527015686
+fr_223	french	Son maquillage, sa gestuelle, ses vêtements, sa coiffure : tout est préparé pour renforcer le contraste entre les deux personnages qu'il joue.	contraste	0.8886828422546387
+fr_224	french	Son maquillage, sa gestuelle, ses vêtements, sa coiffure : tout est préparé pour renforcer le contraste entre les deux personnages qu'il joue.	gestuelle	0.6785925626754761
+fr_225	french	J'ai quand même réussi à obtenir tous les triangles marqueurs, mais mon camembert rempli manquait considérablement d'harmonie avec ses deux triangles de couleur identique.	obtenir	0.5269271731376648
+fr_226	french	J'ai quand même réussi à obtenir tous les triangles marqueurs, mais mon camembert rempli manquait considérablement d'harmonie avec ses deux triangles de couleur identique.	harmonie	0.7157633900642395
+fr_227	french	J'ai quand même réussi à obtenir tous les triangles marqueurs, mais mon camembert rempli manquait considérablement d'harmonie avec ses deux triangles de couleur identique.	identique	0.8956648111343384
+fr_228	french	Effectuer, jour après jour, un travail essentiel dans les domaines publics médiatiques, politiques et juridiques.	domaines	0.5817357301712036
+fr_229	french	Effectuer, jour après jour, un travail essentiel dans les domaines publics médiatiques, politiques et juridiques.	essentiel	0.7427456378936768
+fr_230	french	Effectuer, jour après jour, un travail essentiel dans les domaines publics médiatiques, politiques et juridiques.	Effectuer	0.860551118850708
+fr_231	french	Seul devant un monument ou un paysage, il faut trouver un angle, une position valorisante, la bonne pose, une jolie lumière et ajouter des filtres.	position	0.5359807014465332
+fr_232	french	Seul devant un monument ou un paysage, il faut trouver un angle, une position valorisante, la bonne pose, une jolie lumière et ajouter des filtres.	valorisante	0.8772338032722473
+fr_233	french	Seul devant un monument ou un paysage, il faut trouver un angle, une position valorisante, la bonne pose, une jolie lumière et ajouter des filtres.	pose	0.28056854009628296
+fr_234	french	Concrètement, l'État verserait à chaque citoyen, de sa naissance à sa mort — cela de manière inconditionnelle —, une somme fixe dont le montant et le mode de versement restent à déterminer.	verserait	0.9577053785324097
+fr_235	french	Concrètement, l'État verserait à chaque citoyen, de sa naissance à sa mort — cela de manière inconditionnelle —, une somme fixe dont le montant et le mode de versement restent à déterminer.	inconditionnelle	0.9137915968894958
+fr_236	french	Concrètement, l'État verserait à chaque citoyen, de sa naissance à sa mort — cela de manière inconditionnelle —, une somme fixe dont le montant et le mode de versement restent à déterminer.	somme	0.5667194724082947
+fr_237	french	Dans un livre paru en début d'année, ce patron truculent revient sur son enfance sarthoise : un père ouvrier menuisier, une mère femme de ménage, quatre frères et sœurs destinés comme lui à quitter l'école tôt et à devenir apprentis.	truculent	0.9760055541992188
+fr_238	french	Dans un livre paru en début d'année, ce patron truculent revient sur son enfance sarthoise : un père ouvrier menuisier, une mère femme de ménage, quatre frères et sœurs destinés comme lui à quitter l'école tôt et à devenir apprentis.	destinés	0.8070933222770691
+fr_239	french	Dans un livre paru en début d'année, ce patron truculent revient sur son enfance sarthoise : un père ouvrier menuisier, une mère femme de ménage, quatre frères et sœurs destinés comme lui à quitter l'école tôt et à devenir apprentis.	apprentis	0.9599803686141968
+fr_240	french	Par exemple, si un employeur veut recruter une assistante, il a besoin de voir quel est son style de rédaction.	recruter	0.6307611465454102
+fr_241	french	Par exemple, si un employeur veut recruter une assistante, il a besoin de voir quel est son style de rédaction.	style	0.22288024425506592
+fr_242	french	Par exemple, si un employeur veut recruter une assistante, il a besoin de voir quel est son style de rédaction.	rédaction	0.9113129377365112
+fr_243	french	Pendant les veillées, les griots jouent d'un instrument (de la kora, du balafon, du ngoni...), ils s'en servent surtout pour accompagner leur récit.	veillées	0.9422081708908081
+fr_244	french	Pendant les veillées, les griots jouent d'un instrument (de la kora, du balafon, du ngoni...), ils s'en servent surtout pour accompagner leur récit.	griots	0.9702471494674683
+fr_245	french	Pendant les veillées, les griots jouent d'un instrument (de la kora, du balafon, du ngoni...), ils s'en servent surtout pour accompagner leur récit.	récit	0.8850466012954712
+fr_246	french	On développe aujourd'hui des assortiments de variétés mixées dans le même pot.	développe	0.809856653213501
+fr_247	french	On développe aujourd'hui des assortiments de variétés mixées dans le même pot.	assortiments	0.8376981019973755
+fr_248	french	On développe aujourd'hui des assortiments de variétés mixées dans le même pot.	mixées	0.5360057353973389
+fr_249	french	Entre 1997 et 2009, la proportion de personnes obèses a presque doublé, passant de 8,5% à 14,5%.	proportion	0.7896714210510254
+fr_250	french	Entre 1997 et 2009, la proportion de personnes obèses a presque doublé, passant de 8,5% à 14,5%.	obèses	0.8993025422096252
+fr_251	french	Entre 1997 et 2009, la proportion de personnes obèses a presque doublé, passant de 8,5% à 14,5%.	passant	0.7282172441482544
+fr_252	french	Le problème devrait pourtant pouvoir être résolu car beaucoup d'offres d'emplois ne sont pas pourvues faute de candidats qualifiés.	pourvues	0.8993510007858276
+fr_253	french	Le problème devrait pourtant pouvoir être résolu car beaucoup d'offres d'emplois ne sont pas pourvues faute de candidats qualifiés.	candidats	0.7766563892364502
+fr_254	french	Le problème devrait pourtant pouvoir être résolu car beaucoup d'offres d'emplois ne sont pas pourvues faute de candidats qualifiés.	qualifiés	0.9601507186889648
+fr_255	french	Je le recommande à tous ceux qui ne veulent pas de mauvaises surprises quand ils voyagent à l'étranger.	recommande	0.5048601031303406
+fr_256	french	Je le recommande à tous ceux qui ne veulent pas de mauvaises surprises quand ils voyagent à l'étranger.	surprises	0.8652749061584473
+fr_257	french	Je le recommande à tous ceux qui ne veulent pas de mauvaises surprises quand ils voyagent à l'étranger.	mauvaises	0.8516407012939453
+fr_258	french	Cela montre un profil créatif et dynamique.	profil	0.5569220781326294
+fr_259	french	Cela montre un profil créatif et dynamique.	créatif	0.7954826951026917
+fr_260	french	Cela montre un profil créatif et dynamique.	dynamique	0.7955087423324585
+fr_261	french	Donner la liberté : les enfants choisissent eux-mêmes les activités qu'ils souhaitent faire, pendant le temps qu'ils le désirent.	activités	0.6951764822006226
+fr_262	french	Donner la liberté : les enfants choisissent eux-mêmes les activités qu'ils souhaitent faire, pendant le temps qu'ils le désirent.	désirent	0.6932101249694824
+fr_263	french	Donner la liberté : les enfants choisissent eux-mêmes les activités qu'ils souhaitent faire, pendant le temps qu'ils le désirent.	temps	0.11983010172843933
+fr_264	french	On peut suspecter les retardataires chroniques de souffrir de quelque trouble psychologique.	chroniques	0.8542995452880859
+fr_265	french	On peut suspecter les retardataires chroniques de souffrir de quelque trouble psychologique.	trouble	0.9728002548217773
+fr_266	french	On peut suspecter les retardataires chroniques de souffrir de quelque trouble psychologique.	psychologique	0.9644421339035034
+fr_267	french	Un peu plus loin, on peut reconnaître la spécialiste du compromis, l'expert en activités improvisées, la faiseuse de couples.	reconnaître	0.8590048551559448
+fr_268	french	Un peu plus loin, on peut reconnaître la spécialiste du compromis, l'expert en activités improvisées, la faiseuse de couples.	compromis	0.7982326745986938
+fr_269	french	Un peu plus loin, on peut reconnaître la spécialiste du compromis, l'expert en activités improvisées, la faiseuse de couples.	improvisées	0.9712371230125427
+fr_270	french	C'est un pourpre magnifique envoyé aux jardiniers du Roi.	pourpre	0.8786030411720276
+fr_271	french	C'est un pourpre magnifique envoyé aux jardiniers du Roi.	magnifique	0.7067019939422607
+fr_272	french	C'est un pourpre magnifique envoyé aux jardiniers du Roi.	jardiniers	0.8415592312812805
+fr_273	french	Chez les retardataires systématiques, il y a celui qui angoisse à l'idée qu'il pourrait attendre.	systématiques	0.9456101655960083
+fr_274	french	Chez les retardataires systématiques, il y a celui qui angoisse à l'idée qu'il pourrait attendre.	angoisse	0.8499094247817993
+fr_275	french	Chez les retardataires systématiques, il y a celui qui angoisse à l'idée qu'il pourrait attendre.	retardataires	0.9572879672050476
+fr_276	french	Trémière, elle, embellissait mais, trop contemplative, elle passait pour stupide.	embellissait	0.9418309926986694
+fr_277	french	Trémière, elle, embellissait mais, trop contemplative, elle passait pour stupide.	contemplative	0.9459102153778076
+fr_278	french	Trémière, elle, embellissait mais, trop contemplative, elle passait pour stupide.	stupide	0.8218518495559692
+fr_279	french	Les indemnités versées aux éleveurs l'an dernier étaient de 2,5 millions d'euros.	indemnités	0.9540715217590332
+fr_280	french	Les indemnités versées aux éleveurs l'an dernier étaient de 2,5 millions d'euros.	versées	0.8167157173156738
+fr_281	french	Les indemnités versées aux éleveurs l'an dernier étaient de 2,5 millions d'euros.	éleveurs	0.7275991439819336
+fr_282	french	D'abord, elle consacre un type d'éditeur qui ne se met plus au service d'artistes en activité ou d'un répertoire, mais exploite — avec une intelligence artistique mâtinée d'un sens indéniable des affaires — des catalogues déjà existants.	répertoire	0.8905229568481445
+fr_283	french	D'abord, elle consacre un type d'éditeur qui ne se met plus au service d'artistes en activité ou d'un répertoire, mais exploite — avec une intelligence artistique mâtinée d'un sens indéniable des affaires — des catalogues déjà existants.	exploite	0.8103930950164795
+fr_284	french	D'abord, elle consacre un type d'éditeur qui ne se met plus au service d'artistes en activité ou d'un répertoire, mais exploite — avec une intelligence artistique mâtinée d'un sens indéniable des affaires — des catalogues déjà existants.	indéniable	0.9491002559661865
+fr_285	french	Ce serait un sentiment bien bas et que je ne voudrais pas éprouver quand même il s'agirait d'une personne indifférente, à plus forte raison à son égard.	bas	0.36543866991996765
+fr_286	french	Ce serait un sentiment bien bas et que je ne voudrais pas éprouver quand même il s'agirait d'une personne indifférente, à plus forte raison à son égard.	éprouver	0.9292246103286743
+fr_287	french	Ce serait un sentiment bien bas et que je ne voudrais pas éprouver quand même il s'agirait d'une personne indifférente, à plus forte raison à son égard.	indifférente	0.9409139156341553
+fr_288	french	Histoire d'alerter les jeunes consciences, une affiche trône désormais en majesté sur les murs de tous les collèges et lycées du 93, avec un slogan qui claque:	alerter	0.8345309495925903
+fr_289	french	Histoire d'alerter les jeunes consciences, une affiche trône désormais en majesté sur les murs de tous les collèges et lycées du 93, avec un slogan qui claque:	claque	0.8613584041595459
+fr_290	french	Histoire d'alerter les jeunes consciences, une affiche trône désormais en majesté sur les murs de tous les collèges et lycées du 93, avec un slogan qui claque:	consciences	0.967682957649231
+fr_291	french	Il m'arrive aussi de modifier les publications, mais je fais attention aux sources.	modifier	0.7975132465362549
+fr_292	french	Il m'arrive aussi de modifier les publications, mais je fais attention aux sources.	publications	0.8780972957611084
+fr_293	french	Il m'arrive aussi de modifier les publications, mais je fais attention aux sources.	sources	0.7631018161773682
+fr_294	french	Les spécialistes prévoient un allongement de la période de croissance des arbres (elle a augmenté d'une dizaine de jours depuis 1960).	allongement	0.8904706239700317
+fr_295	french	Les spécialistes prévoient un allongement de la période de croissance des arbres (elle a augmenté d'une dizaine de jours depuis 1960).	croissance	0.7979688048362732
+fr_296	french	Les spécialistes prévoient un allongement de la période de croissance des arbres (elle a augmenté d'une dizaine de jours depuis 1960).	augmenté	0.8427979946136475
+fr_297	french	On retrouve aussi chez les personnages une légèreté enfantine, cependant pas toujours drôle.	légèreté	0.9746825695037842
+fr_298	french	On retrouve aussi chez les personnages une légèreté enfantine, cependant pas toujours drôle.	personnages	0.7202080488204956
+fr_299	french	On retrouve aussi chez les personnages une légèreté enfantine, cependant pas toujours drôle.	enfantine	0.9265316724777222
+fr_300	french	Sa dématérialisation devient désormais inéluctable, comme pour les autres musiques, tout comme l'achat en ligne et le téléchargement (plus ou moins) légal.	inéluctable	0.9552503228187561
+fr_301	french	Sa dématérialisation devient désormais inéluctable, comme pour les autres musiques, tout comme l'achat en ligne et le téléchargement (plus ou moins) légal.	légal	0.8054733872413635
+fr_302	french	Sa dématérialisation devient désormais inéluctable, comme pour les autres musiques, tout comme l'achat en ligne et le téléchargement (plus ou moins) légal.	dématérialisation	0.947033166885376
+fr_303	french	Elle marque ensuite la marchandisation absolue du disque classique (réduction au minimum des coûts, prix le plus attractif possible, pari sur la quantité écoulée) et le banalise, en marginalisant les éditeurs qui prennent des risques, découvrent des artistes, explorent des répertoires, accomplissent un travail d'accompagnement iconographique et textuel.	attractif	0.6889270544052124
+fr_304	french	Elle marque ensuite la marchandisation absolue du disque classique (réduction au minimum des coûts, prix le plus attractif possible, pari sur la quantité écoulée) et le banalise, en marginalisant les éditeurs qui prennent des risques, découvrent des artistes, explorent des répertoires, accomplissent un travail d'accompagnement iconographique et textuel.	accomplissent	0.9042558670043945
+fr_305	french	Elle marque ensuite la marchandisation absolue du disque classique (réduction au minimum des coûts, prix le plus attractif possible, pari sur la quantité écoulée) et le banalise, en marginalisant les éditeurs qui prennent des risques, découvrent des artistes, explorent des répertoires, accomplissent un travail d'accompagnement iconographique et textuel.	marginalisant	0.9648582935333252
+fr_306	french	Notre équipe se fait un devoir d'appuyer les actions qui visent la libération des femmes et l'amélioration des conditions de vie des femmes.	appuyer	0.847417950630188
+fr_307	french	Notre équipe se fait un devoir d'appuyer les actions qui visent la libération des femmes et l'amélioration des conditions de vie des femmes.	visent	0.7224208116531372
+fr_308	french	Notre équipe se fait un devoir d'appuyer les actions qui visent la libération des femmes et l'amélioration des conditions de vie des femmes.	amélioration	0.9013792276382446
+fr_309	french	si vous adorez votre famille, les repas  dominicaux sont parfois ennuyeux...	adorez	0.053091078996658325
+fr_310	french	si vous adorez votre famille, les repas  dominicaux sont parfois ennuyeux...	ennuyeux	0.7557075023651123
+fr_311	french	si vous adorez votre famille, les repas  dominicaux sont parfois ennuyeux...	dominicaux	0.980513334274292
+fr_312	french	La qualité sonore n'est pas très bonne et les réponses de l'assistant ne sont pas toujours pertinentes...	pertinentes	0.8375179767608643
+fr_313	french	La qualité sonore n'est pas très bonne et les réponses de l'assistant ne sont pas toujours pertinentes...	assistant	0.6626375913619995
+fr_314	french	La qualité sonore n'est pas très bonne et les réponses de l'assistant ne sont pas toujours pertinentes...	bonne	0.23591119050979614
+fr_315	french	Découvrez quelques richesses de ce patrimoine linguistique.	richesses	0.9386080503463745
+fr_316	french	Découvrez quelques richesses de ce patrimoine linguistique.	patrimoine	0.8546308875083923
+fr_317	french	Découvrez quelques richesses de ce patrimoine linguistique.	linguistique	0.9188904762268066
+fr_318	french	Enfin, pour ce qui est d'être aliénant — être sans cesse joignable, notamment par son employeur — les utilisateurs de mobile ont su développer des stratégies pour être joignables seulement quand ils le souhaitent et pour que le téléphone ne leur dicte pas sa loi.	aliénant	0.9803951382637024
+fr_319	french	Enfin, pour ce qui est d'être aliénant — être sans cesse joignable, notamment par son employeur — les utilisateurs de mobile ont su développer des stratégies pour être joignables seulement quand ils le souhaitent et pour que le téléphone ne leur dicte pas sa loi.	joignable	0.8027248382568359
+fr_320	french	Enfin, pour ce qui est d'être aliénant — être sans cesse joignable, notamment par son employeur — les utilisateurs de mobile ont su développer des stratégies pour être joignables seulement quand ils le souhaitent et pour que le téléphone ne leur dicte pas sa loi.	développer	0.8697429895401001
+fr_321	french	Pour éviter les problèmes, il est souhaitable de contrôler la barre d'adresse du navigateur et de ne pas ouvrir les mails adressés par un e-commerçant chez qui vous n'avez rien acheté.	souhaitable	0.9000328779220581
+fr_322	french	Pour éviter les problèmes, il est souhaitable de contrôler la barre d'adresse du navigateur et de ne pas ouvrir les mails adressés par un e-commerçant chez qui vous n'avez rien acheté.	contrôler	0.6761589646339417
+fr_323	french	Pour éviter les problèmes, il est souhaitable de contrôler la barre d'adresse du navigateur et de ne pas ouvrir les mails adressés par un e-commerçant chez qui vous n'avez rien acheté.	adressés	0.8716839551925659
+fr_324	french	Ce n'est pas du monde, du bruit, des spectacles, de la parure qu'il me faut, c'est de la liberté d'être toute seule dans la rue et me dire à moi-même «Je dînerai à quatre heures ou à sept suivant mon bon plaisir, je passerai par le Luxembourg pour aller aux Tuileries, au lieu de passer par les Champs-Elysées, si tel est mon caprice», voilà de quoi m'amuser davantage que les fadeurs des hommes et la raideur des salons.	parure	0.7763922214508057
+fr_325	french	Ce n'est pas du monde, du bruit, des spectacles, de la parure qu'il me faut, c'est de la liberté d'être toute seule dans la rue et me dire à moi-même «Je dînerai à quatre heures ou à sept suivant mon bon plaisir, je passerai par le Luxembourg pour aller aux Tuileries, au lieu de passer par les Champs-Elysées, si tel est mon caprice», voilà de quoi m'amuser davantage que les fadeurs des hommes et la raideur des salons.	caprice	0.8211899995803833
+fr_326	french	Ce n'est pas du monde, du bruit, des spectacles, de la parure qu'il me faut, c'est de la liberté d'être toute seule dans la rue et me dire à moi-même «Je dînerai à quatre heures ou à sept suivant mon bon plaisir, je passerai par le Luxembourg pour aller aux Tuileries, au lieu de passer par les Champs-Elysées, si tel est mon caprice», voilà de quoi m'amuser davantage que les fadeurs des hommes et la raideur des salons.	fadeurs	0.9937329292297363
+fr_327	french	Ce n'est pas du monde, du bruit, des spectacles, de la parure qu'il me faut, c'est de la liberté d'être toute seule dans la rue et me dire à moi-même «Je dînerai à quatre heures ou à sept suivant mon bon plaisir, je passerai par le Luxembourg pour aller aux Tuileries, au lieu de passer par les Champs-Elysées, si tel est mon caprice», voilà de quoi m'amuser davantage que les fadeurs des hommes et la raideur des salons.	dînerai	0.7244046926498413
+fr_328	french	Ce n'est pas du monde, du bruit, des spectacles, de la parure qu'il me faut, c'est de la liberté d'être toute seule dans la rue et me dire à moi-même «Je dînerai à quatre heures ou à sept suivant mon bon plaisir, je passerai par le Luxembourg pour aller aux Tuileries, au lieu de passer par les Champs-Elysées, si tel est mon caprice», voilà de quoi m'amuser davantage que les fadeurs des hommes et la raideur des salons.	passerai	0.5650335550308228
+fr_329	french	Ce n'est pas du monde, du bruit, des spectacles, de la parure qu'il me faut, c'est de la liberté d'être toute seule dans la rue et me dire à moi-même «Je dînerai à quatre heures ou à sept suivant mon bon plaisir, je passerai par le Luxembourg pour aller aux Tuileries, au lieu de passer par les Champs-Elysées, si tel est mon caprice», voilà de quoi m'amuser davantage que les fadeurs des hommes et la raideur des salons.	monde	0.0656532347202301
+fr_330	french	Espérons que la suppression des pub sexistes facilitera un changement des mentalités et que cette initiative inspirera d'autres villes.	suppression	0.9028446674346924
+fr_331	french	Espérons que la suppression des pub sexistes facilitera un changement des mentalités et que cette initiative inspirera d'autres villes.	mentalités	0.7869899272918701
+fr_332	french	Espérons que la suppression des pub sexistes facilitera un changement des mentalités et que cette initiative inspirera d'autres villes.	inspirera	0.7934587597846985
+fr_333	french	Il faut être sacrément rabat-joie pour plaider contre.	rabat-joie	0.8304615318775177
+fr_334	french	Il faut être sacrément rabat-joie pour plaider contre.	plaider	0.8396803140640259
+fr_335	french	Il faut être sacrément rabat-joie pour plaider contre.	sacrément	0.740705132484436
+fr_336	french	Je me souviens que je te disais: s'arrêter là dans une paisible maisonnette, ce serait sans doute la sagesse.	paisible	0.8378234505653381
+fr_337	french	Je me souviens que je te disais: s'arrêter là dans une paisible maisonnette, ce serait sans doute la sagesse.	sagesse	0.9624729752540588
+fr_338	french	Je me souviens que je te disais: s'arrêter là dans une paisible maisonnette, ce serait sans doute la sagesse.	maisonnette	0.8395215272903442
+fr_339	french	Si personne n'aime la photo, c'est une grande déception, car ce que nous recherchons finalement, c'est exister auprès des autres, le nombre de likes nous rassurent et nous donnent le sentiment d'être reconnus, d'avoir notre place.	déception	0.884521484375
+fr_340	french	Si personne n'aime la photo, c'est une grande déception, car ce que nous recherchons finalement, c'est exister auprès des autres, le nombre de likes nous rassurent et nous donnent le sentiment d'être reconnus, d'avoir notre place.	reconnus	0.8764228820800781
+fr_341	french	Si personne n'aime la photo, c'est une grande déception, car ce que nous recherchons finalement, c'est exister auprès des autres, le nombre de likes nous rassurent et nous donnent le sentiment d'être reconnus, d'avoir notre place.	auprès	0.6861487627029419
+fr_342	french	Deuxième étape : les espèces fuyant la chaleur arrivent dans des écosystèmes nouveaux et deviennent des dangers pour les espèces locales.	espèces	0.8886220455169678
+fr_343	french	Deuxième étape : les espèces fuyant la chaleur arrivent dans des écosystèmes nouveaux et deviennent des dangers pour les espèces locales.	écosystèmes	0.9678652286529541
+fr_344	french	Deuxième étape : les espèces fuyant la chaleur arrivent dans des écosystèmes nouveaux et deviennent des dangers pour les espèces locales.	dangers	0.9656778573989868
+fr_345	french	l'imagination au coeur de l'apprentissage : les contes, l'imaginaire, les jeux d'imitation, les arts plastiques, l'art dramatique et l'artisanat sont très présents dans la classe.	contes	0.6907707452774048
+fr_346	french	l'imagination au coeur de l'apprentissage : les contes, l'imaginaire, les jeux d'imitation, les arts plastiques, l'art dramatique et l'artisanat sont très présents dans la classe.	coeur	0.4741409420967102
+fr_347	french	l'imagination au coeur de l'apprentissage : les contes, l'imaginaire, les jeux d'imitation, les arts plastiques, l'art dramatique et l'artisanat sont très présents dans la classe.	artisanat	0.7950655221939087
+fr_348	french	Les arbres sont parfois plantés en expression d'une contestation politique.	expression	0.8099538683891296
+fr_349	french	Les arbres sont parfois plantés en expression d'une contestation politique.	contestation	0.9641501903533936
+fr_350	french	Les arbres sont parfois plantés en expression d'une contestation politique.	politique	0.7684222459793091
+fr_351	french	D'ailleurs, ce clip de Carmen, a été envoyé en avant-première à la plateforme américaine	avant-première	0.8696359395980835
+fr_352	french	D'ailleurs, ce clip de Carmen, a été envoyé en avant-première à la plateforme américaine	plateforme	0.803674578666687
+fr_353	french	D'ailleurs, ce clip de Carmen, a été envoyé en avant-première à la plateforme américaine	clip	0.13408991694450378
+fr_354	french	J'ai des doutes sérieux sur ce projet que je trouve trop élevé et peu compatible avec le cœur historique de Paris	compatible	0.8220438361167908
+fr_355	french	J'ai des doutes sérieux sur ce projet que je trouve trop élevé et peu compatible avec le cœur historique de Paris	sérieux	0.7307586669921875
+fr_356	french	J'ai des doutes sérieux sur ce projet que je trouve trop élevé et peu compatible avec le cœur historique de Paris	élevé	0.7296277284622192
+fr_357	french	Les sites sont très nombreux, leur forme est souvent proche, avec une photo, un titre, des rubriques... Mais sont-ils fiables ?	rubriques	0.7807325124740601
+fr_358	french	Les sites sont très nombreux, leur forme est souvent proche, avec une photo, un titre, des rubriques... Mais sont-ils fiables ?	fiables	0.8867709636688232
+fr_359	french	Les sites sont très nombreux, leur forme est souvent proche, avec une photo, un titre, des rubriques... Mais sont-ils fiables ?	proche	0.3253926634788513
+fr_360	french	Je suis ponctuel par politesse et par habitude.	ponctuel	0.5285685658454895
+fr_361	french	Je suis ponctuel par politesse et par habitude.	politesse	0.8033283948898315
+fr_362	french	Je suis ponctuel par politesse et par habitude.	habitude	0.7235056757926941
+fr_363	french	Une moyenne qui cache des écarts plus importants chez les cadres à hauts revenus (20 %) que chez les ouvriers (8,9 %), et des situations professionnelles diverses.	revenus	0.8575273156166077
+fr_364	french	Une moyenne qui cache des écarts plus importants chez les cadres à hauts revenus (20 %) que chez les ouvriers (8,9 %), et des situations professionnelles diverses.	diverses	0.777335524559021
+fr_365	french	Une moyenne qui cache des écarts plus importants chez les cadres à hauts revenus (20 %) que chez les ouvriers (8,9 %), et des situations professionnelles diverses.	écarts	0.9540722966194153
+fr_366	french	Il leur arrive d'ailleurs de se chamailler, de se fâcher, de se réconcilier.	chamailler	0.8235740065574646
+fr_367	french	Il leur arrive d'ailleurs de se chamailler, de se fâcher, de se réconcilier.	fâcher	0.9303845167160034
+fr_368	french	Il leur arrive d'ailleurs de se chamailler, de se fâcher, de se réconcilier.	réconcilier	0.9377339482307434
+fr_369	french	Toute personne intéressée s'adresse à l'équipe des animateurs du réseau, remplit une fiche avec ses savoirs, ses offres, ses demandes.	animateurs	0.7478830218315125
+fr_370	french	Toute personne intéressée s'adresse à l'équipe des animateurs du réseau, remplit une fiche avec ses savoirs, ses offres, ses demandes.	offres	0.5384871959686279
+fr_371	french	Toute personne intéressée s'adresse à l'équipe des animateurs du réseau, remplit une fiche avec ses savoirs, ses offres, ses demandes.	demandes	0.635892391204834
+fr_372	french	Le nombre de calories pour 100 g, ce qui en fait un aliment diététique à condition d'être préparé sans excès de matière grasse (100 g de chips apportant plus de 500 kcal, contre 80 pour le même poids de pommes de terre cuites à l'eau).	diététique	0.8845393061637878
+fr_373	french	Le nombre de calories pour 100 g, ce qui en fait un aliment diététique à condition d'être préparé sans excès de matière grasse (100 g de chips apportant plus de 500 kcal, contre 80 pour le même poids de pommes de terre cuites à l'eau).	excès	0.9893150925636292
+fr_374	french	Le nombre de calories pour 100 g, ce qui en fait un aliment diététique à condition d'être préparé sans excès de matière grasse (100 g de chips apportant plus de 500 kcal, contre 80 pour le même poids de pommes de terre cuites à l'eau).	préparé	0.6097224354743958
+fr_375	french	Le monde connaîtra une multiplication des flux migratoires causés par des guerres ou des sécheresses.	multiplication	0.9361951351165771
+fr_376	french	Le monde connaîtra une multiplication des flux migratoires causés par des guerres ou des sécheresses.	migratoires	0.9771661758422852
+fr_377	french	Le monde connaîtra une multiplication des flux migratoires causés par des guerres ou des sécheresses.	flux	0.6286142468452454
+fr_378	french	Impulser, coordonner et participer à des actions d'ampleur locales et nationales.	Impulser	0.8386319875717163
+fr_379	french	Impulser, coordonner et participer à des actions d'ampleur locales et nationales.	ampleur	0.9230326414108276
+fr_380	french	Impulser, coordonner et participer à des actions d'ampleur locales et nationales.	coordonner	0.4862843155860901
+fr_381	french	Une mobilisation nationale à l'appel de 36 associations venues dénoncer l'abattage systématique des loups.	abattage	0.9805562496185303
+fr_382	french	Une mobilisation nationale à l'appel de 36 associations venues dénoncer l'abattage systématique des loups.	mobilisation	0.9176267385482788
+fr_383	french	Une mobilisation nationale à l'appel de 36 associations venues dénoncer l'abattage systématique des loups.	dénoncer	0.7935609817504883
+fr_384	french	le loyer mensuel d'un studio négocié avec une agence ou un particulier est légèrement plus élevé que celui pratiqué dans les résidences étudiantes.	pratiqué	0.8608378171920776
+fr_385	french	le loyer mensuel d'un studio négocié avec une agence ou un particulier est légèrement plus élevé que celui pratiqué dans les résidences étudiantes.	résidences	0.8997676968574524
+fr_386	french	le loyer mensuel d'un studio négocié avec une agence ou un particulier est légèrement plus élevé que celui pratiqué dans les résidences étudiantes.	élevé	0.8388840556144714
+fr_387	french	Au départ, plusieurs internautes ont exprimé leur grogne contre la hausse du prix du carburant en poussant des coups de gueule spontanés en ligne (pétition, vidéo, page sur Facebook).	grogne	0.9425736665725708
+fr_388	french	Au départ, plusieurs internautes ont exprimé leur grogne contre la hausse du prix du carburant en poussant des coups de gueule spontanés en ligne (pétition, vidéo, page sur Facebook).	spontanés	0.9680743217468262
+fr_389	french	Au départ, plusieurs internautes ont exprimé leur grogne contre la hausse du prix du carburant en poussant des coups de gueule spontanés en ligne (pétition, vidéo, page sur Facebook).	hausse	0.8480562567710876
+fr_390	french	Nous exigeons de l'État des mesures plus contraignantes pour que cessent toutes formes de discrimination dans les démarches d'intégration des femmes à l'emploi, quelles que soient leur origine et leur scolarité.	contraignantes	0.9538800716400146
+fr_391	french	Nous exigeons de l'État des mesures plus contraignantes pour que cessent toutes formes de discrimination dans les démarches d'intégration des femmes à l'emploi, quelles que soient leur origine et leur scolarité.	discrimination	0.8778048753738403
+fr_392	french	Nous exigeons de l'État des mesures plus contraignantes pour que cessent toutes formes de discrimination dans les démarches d'intégration des femmes à l'emploi, quelles que soient leur origine et leur scolarité.	scolarité	0.9060372710227966
+fr_393	french	Avec tous les moyens de transport sauf les taxis, vous pouvez avoir des réductions si vous appartenez à une des catégories suivantes: enfant, jeune, étudiant, sénior, chômeur, famille nombreuse, groupe handicapé, bénéficiaire d'aides sociales.	réductions	0.6913158297538757
+fr_394	french	Avec tous les moyens de transport sauf les taxis, vous pouvez avoir des réductions si vous appartenez à une des catégories suivantes: enfant, jeune, étudiant, sénior, chômeur, famille nombreuse, groupe handicapé, bénéficiaire d'aides sociales.	bénéficiaire	0.9434493780136108
+fr_395	french	Avec tous les moyens de transport sauf les taxis, vous pouvez avoir des réductions si vous appartenez à une des catégories suivantes: enfant, jeune, étudiant, sénior, chômeur, famille nombreuse, groupe handicapé, bénéficiaire d'aides sociales.	sociales	0.8769897222518921
+fr_396	french	Avec ces objectifs affichés : éradiquer la pauvreté, lutter contre la précarité, mieux redistribuer les richesses, mais, surtout, repenser l'économie, la fiscalité, le travail.	affichés	0.7531594038009644
+fr_397	french	Avec ces objectifs affichés : éradiquer la pauvreté, lutter contre la précarité, mieux redistribuer les richesses, mais, surtout, repenser l'économie, la fiscalité, le travail.	éradiquer	0.9135842323303223
+fr_398	french	Avec ces objectifs affichés : éradiquer la pauvreté, lutter contre la précarité, mieux redistribuer les richesses, mais, surtout, repenser l'économie, la fiscalité, le travail.	fiscalité	0.9253411293029785
+fr_399	french	Nous en prenons conscience en franchissant nos frontières et en étant confrontés à d'autres nourritures.	confrontés	0.9124917984008789
+fr_400	french	Nous en prenons conscience en franchissant nos frontières et en étant confrontés à d'autres nourritures.	franchissant	0.9337238073348999
+fr_401	french	Nous en prenons conscience en franchissant nos frontières et en étant confrontés à d'autres nourritures.	nourritures	0.9068663716316223
+fr_402	french	Les milliers d'utilisateurs piégés sont séduits par ces fausses actualités.	séduits	0.9407052993774414
+fr_403	french	Les milliers d'utilisateurs piégés sont séduits par ces fausses actualités.	actualités	0.8420113325119019
+fr_404	french	Les milliers d'utilisateurs piégés sont séduits par ces fausses actualités.	piégés	0.9766538143157959
+fr_405	french	Les augmentations de revenus ne profitent pas également à tous : entre 2003 et 2013, les plus modestes ont gagné en moyenne 2,3 % de pouvoir d'achat alors que, sur la même période, les 10 % les plus riches ont vu leurs revenus augmenter vingt fois plus (42,4 % de hausse).	modestes	0.9641227126121521
+fr_406	french	Les augmentations de revenus ne profitent pas également à tous : entre 2003 et 2013, les plus modestes ont gagné en moyenne 2,3 % de pouvoir d'achat alors que, sur la même période, les 10 % les plus riches ont vu leurs revenus augmenter vingt fois plus (42,4 % de hausse).	profitent	0.7249934673309326
+fr_407	french	Les augmentations de revenus ne profitent pas également à tous : entre 2003 et 2013, les plus modestes ont gagné en moyenne 2,3 % de pouvoir d'achat alors que, sur la même période, les 10 % les plus riches ont vu leurs revenus augmenter vingt fois plus (42,4 % de hausse).	période	0.6093797087669373
+fr_408	french	La nuit du 6 décembre 2018, je vous ai fait part, oralement, de la gêne occasionnée par les nuisances sonores répétitives provenant de votre logement : volume excessif de la musique, conversations trop fortes et bruits de pas (de chaussures à talons !).	gêne	0.9002722501754761
+fr_409	french	La nuit du 6 décembre 2018, je vous ai fait part, oralement, de la gêne occasionnée par les nuisances sonores répétitives provenant de votre logement : volume excessif de la musique, conversations trop fortes et bruits de pas (de chaussures à talons !).	occasionnée	0.9757736921310425
+fr_410	french	La nuit du 6 décembre 2018, je vous ai fait part, oralement, de la gêne occasionnée par les nuisances sonores répétitives provenant de votre logement : volume excessif de la musique, conversations trop fortes et bruits de pas (de chaussures à talons !).	provenant	0.6873447895050049
+fr_411	french	On peut estimer que les Français dépensent, selon leur revenu, entre 200 et 600 euros par mois pour soigner leur look.	estimer	0.9478737711906433
+fr_412	french	On peut estimer que les Français dépensent, selon leur revenu, entre 200 et 600 euros par mois pour soigner leur look.	look	0.08162325620651245
+fr_413	french	On peut estimer que les Français dépensent, selon leur revenu, entre 200 et 600 euros par mois pour soigner leur look.	dépensent	0.8792228698730469
+fr_414	french	La marchandisation de l'espace se développe fortement en France pour combler notamment la forte réduction de la dotation globale de fonctionnement », confirme Marcel Botton, spécialiste des marques et PDG de la société Nomen.	combler	0.8915622234344482
+fr_415	french	La marchandisation de l'espace se développe fortement en France pour combler notamment la forte réduction de la dotation globale de fonctionnement », confirme Marcel Botton, spécialiste des marques et PDG de la société Nomen.	dotation	0.5933806896209717
+fr_416	french	La marchandisation de l'espace se développe fortement en France pour combler notamment la forte réduction de la dotation globale de fonctionnement », confirme Marcel Botton, spécialiste des marques et PDG de la société Nomen.	marchandisation	0.8587267398834229
+fr_417	french	Je voulais rester aventurier, [...] aller dans des territoires sauvages, [...] escalader des parois, voyager, partir simplement dans des contrées sauvages.	aventurier	0.8891298770904541
+fr_418	french	Je voulais rester aventurier, [...] aller dans des territoires sauvages, [...] escalader des parois, voyager, partir simplement dans des contrées sauvages.	parois	0.9851840734481812
+fr_419	french	Je voulais rester aventurier, [...] aller dans des territoires sauvages, [...] escalader des parois, voyager, partir simplement dans des contrées sauvages.	escalader	0.9180641174316406
+fr_420	french	Je vous conseille d'avoir en permanence un grigri sur vous pour faire de belles rencontres !	grigri	0.936550498008728
+fr_421	french	Je vous conseille d'avoir en permanence un grigri sur vous pour faire de belles rencontres !	conseille	0.3605673313140869
+fr_422	french	Je vous conseille d'avoir en permanence un grigri sur vous pour faire de belles rencontres !	belles	0.3108188807964325
+fr_423	french	Vous êtes nombreux à nous demander des idées de voyages atypiques pour vos prochaines vacances.	atypiques	0.8154517412185669
+fr_424	french	Vous êtes nombreux à nous demander des idées de voyages atypiques pour vos prochaines vacances.	nombreux	0.4946969747543335
+fr_425	french	Vous êtes nombreux à nous demander des idées de voyages atypiques pour vos prochaines vacances.	idées	0.24654513597488403
+fr_426	french	À part ça, la plupart du temps on partage des moments heureux et conviviaux.	conviviaux	0.9173300266265869
+fr_427	french	À part ça, la plupart du temps on partage des moments heureux et conviviaux.	partage	0.49578383564949036
+fr_428	french	À part ça, la plupart du temps on partage des moments heureux et conviviaux.	heureux	0.5709627270698547
+fr_429	french	Les lettres ne sont pas lues parce qu'elles sont démodées, mais parce qu'elles sont mauvaises, mal rédigées.	démodées	0.9343278408050537
+fr_430	french	Les lettres ne sont pas lues parce qu'elles sont démodées, mais parce qu'elles sont mauvaises, mal rédigées.	rédigées	0.9259396195411682
+fr_431	french	Les lettres ne sont pas lues parce qu'elles sont démodées, mais parce qu'elles sont mauvaises, mal rédigées.	mauvaises	0.8390723466873169
+fr_432	french	Un nouveau monde qui oblige à changer de paradigme, puisque les vieilles recettes du XXe siècle ont prouvé leur inefficacité au XXIe.	paradigme	0.8673208951950073
+fr_433	french	Un nouveau monde qui oblige à changer de paradigme, puisque les vieilles recettes du XXe siècle ont prouvé leur inefficacité au XXIe.	recettes	0.5096963047981262
+fr_434	french	Un nouveau monde qui oblige à changer de paradigme, puisque les vieilles recettes du XXe siècle ont prouvé leur inefficacité au XXIe.	prouvé	0.542564868927002
+fr_435	french	En effet, l'espace public parisien ne se limite pas à la rue, il comprend aussi les bus, les magasins, le métro, les gares, etc.	comprend	0.25387805700302124
+fr_436	french	En effet, l'espace public parisien ne se limite pas à la rue, il comprend aussi les bus, les magasins, le métro, les gares, etc.	limite	0.33734622597694397
+fr_437	french	En effet, l'espace public parisien ne se limite pas à la rue, il comprend aussi les bus, les magasins, le métro, les gares, etc.	rue	0.0702333152294159
+fr_438	french	Défendue par Claude Évin, alors ministre socialiste des Affaires sociales, cette loi avait fait, lors de son adoption, l'effet d'une petite révolution en posant clairement le principe de l'interdiction de fumer dans les locaux à usage collectif et en instituant un droit des non-fumeurs à la protection de leur santé.	Défendue	0.9269211888313293
+fr_439	french	Défendue par Claude Évin, alors ministre socialiste des Affaires sociales, cette loi avait fait, lors de son adoption, l'effet d'une petite révolution en posant clairement le principe de l'interdiction de fumer dans les locaux à usage collectif et en instituant un droit des non-fumeurs à la protection de leur santé.	adoption	0.5997217297554016
+fr_440	french	Défendue par Claude Évin, alors ministre socialiste des Affaires sociales, cette loi avait fait, lors de son adoption, l'effet d'une petite révolution en posant clairement le principe de l'interdiction de fumer dans les locaux à usage collectif et en instituant un droit des non-fumeurs à la protection de leur santé.	collectif	0.7547715902328491
+fr_441	french	Ce dont on ne parle pas toujours, c'est qu'elle est vraiment professionnelle et qu'elle prépare minutieusement ses rôles.	rôles	0.5755632519721985
+fr_442	french	Ce dont on ne parle pas toujours, c'est qu'elle est vraiment professionnelle et qu'elle prépare minutieusement ses rôles.	professionnelle	0.8767270445823669
+fr_443	french	Ce dont on ne parle pas toujours, c'est qu'elle est vraiment professionnelle et qu'elle prépare minutieusement ses rôles.	minutieusement	0.9036098718643188
+fr_444	french	Une coopération importante existant entre la France et le Laos dans le domaine de la santé, je prévois à mon retour de chercher un emploi dans ce secteur.	coopération	0.6816093921661377
+fr_445	french	Une coopération importante existant entre la France et le Laos dans le domaine de la santé, je prévois à mon retour de chercher un emploi dans ce secteur.	secteur	0.7993372678756714
+fr_446	french	Une coopération importante existant entre la France et le Laos dans le domaine de la santé, je prévois à mon retour de chercher un emploi dans ce secteur.	prévois	0.36094218492507935
+fr_447	french	Alors qu'un enfant sur six est en surpoids ou obèse, chercheurs, politiques et ONG lancent un cri d'alarme et appellent à reconnaître l'influence considérable des publicités sur la santé des enfants.	considérable	0.9692823886871338
+fr_448	french	Alors qu'un enfant sur six est en surpoids ou obèse, chercheurs, politiques et ONG lancent un cri d'alarme et appellent à reconnaître l'influence considérable des publicités sur la santé des enfants.	lancent	0.7231271266937256
+fr_449	french	Alors qu'un enfant sur six est en surpoids ou obèse, chercheurs, politiques et ONG lancent un cri d'alarme et appellent à reconnaître l'influence considérable des publicités sur la santé des enfants.	influence	0.8573704361915588
+fr_450	french	La pub sert aussi à faire la promotion d'organisations humanitaires et d'événements sportifs ou culturels,	organisations	0.9048278331756592
+fr_451	french	La pub sert aussi à faire la promotion d'organisations humanitaires et d'événements sportifs ou culturels,	promotion	0.6186621785163879
+fr_452	french	La pub sert aussi à faire la promotion d'organisations humanitaires et d'événements sportifs ou culturels,	humanitaires	0.8915870189666748
+fr_453	french	Les moyens financiers de l'association proviennent exclusivement des dons et des cotisations de ses membres, sans aucune subvention de l'État.	cotisations	0.9573196768760681
+fr_454	french	Les moyens financiers de l'association proviennent exclusivement des dons et des cotisations de ses membres, sans aucune subvention de l'État.	subvention	0.8993741273880005
+fr_455	french	Les moyens financiers de l'association proviennent exclusivement des dons et des cotisations de ses membres, sans aucune subvention de l'État.	financiers	0.9503132104873657
+fr_456	french	Il souhaite orienter ses lecteurs, pour qu'ils pensent que cet incendie été provoqué par des fumeurs imprudents.	orienter	0.5398550033569336
+fr_457	french	Il souhaite orienter ses lecteurs, pour qu'ils pensent que cet incendie été provoqué par des fumeurs imprudents.	imprudents	0.9780791997909546
+fr_458	french	Il souhaite orienter ses lecteurs, pour qu'ils pensent que cet incendie été provoqué par des fumeurs imprudents.	provoqué	0.938194751739502
+fr_459	french	Comme les autres mouvements sociaux, il s'agit d'une révolution sur les réseaux sociaux, critique à l'égard des autorités politiques, mais les manifestants n'ont pas occupé un lieu spécifique comme les Espagnols ou les Américains.	mouvements	0.8537951707839966
+fr_460	french	Comme les autres mouvements sociaux, il s'agit d'une révolution sur les réseaux sociaux, critique à l'égard des autorités politiques, mais les manifestants n'ont pas occupé un lieu spécifique comme les Espagnols ou les Américains.	spécifique	0.920695424079895
+fr_461	french	Comme les autres mouvements sociaux, il s'agit d'une révolution sur les réseaux sociaux, critique à l'égard des autorités politiques, mais les manifestants n'ont pas occupé un lieu spécifique comme les Espagnols ou les Américains.	autorités	0.9075426459312439
+fr_462	french	Sous réserve de l' obtention des autorisations par le maître d'ouvrage, la construction et l'installation du parc débuteront en 2019 permettant ainsi la mise en service de 40 % des éoliennes avant le 1er juillet 2021.	débuteront	0.9405120611190796
+fr_463	french	Sous réserve de l' obtention des autorisations par le maître d'ouvrage, la construction et l'installation du parc débuteront en 2019 permettant ainsi la mise en service de 40 % des éoliennes avant le 1er juillet 2021.	autorisations	0.8701175451278687
+fr_464	french	Sous réserve de l' obtention des autorisations par le maître d'ouvrage, la construction et l'installation du parc débuteront en 2019 permettant ainsi la mise en service de 40 % des éoliennes avant le 1er juillet 2021.	obtention	0.8085448145866394
+fr_465	french	Les personnes s'attachent à la marque, qui acquiert ainsi un capital sympathie.	attachent	0.8344806432723999
+fr_466	french	Les personnes s'attachent à la marque, qui acquiert ainsi un capital sympathie.	acquiert	0.8662614822387695
+fr_467	french	Les personnes s'attachent à la marque, qui acquiert ainsi un capital sympathie.	marque	0.2720550000667572
+fr_468	french	"Nous ne somes pas opposés à ce que certains loups soient abattus parce qu'on a identifié qu'ils posaient problème, mais aller tirer des loups n'importe où en disant ""on va réduire la population"", ça ne résout pas le problème de l'agression au troupeau."	abattus	0.9754958152770996
+fr_469	french	"Nous ne somes pas opposés à ce que certains loups soient abattus parce qu'on a identifié qu'ils posaient problème, mais aller tirer des loups n'importe où en disant ""on va réduire la population"", ça ne résout pas le problème de l'agression au troupeau."	identifié	0.9163991212844849
+fr_470	french	"Nous ne somes pas opposés à ce que certains loups soient abattus parce qu'on a identifié qu'ils posaient problème, mais aller tirer des loups n'importe où en disant ""on va réduire la population"", ça ne résout pas le problème de l'agression au troupeau."	agression	0.9075359106063843
+fr_471	french	Dans une époque agitée où notre planète souffre, les interprétations des prévisions de Nostradamus amusent autant qu'elles inquiètent	agitée	0.9619277715682983
+fr_472	french	Dans une époque agitée où notre planète souffre, les interprétations des prévisions de Nostradamus amusent autant qu'elles inquiètent	époque	0.32992875576019287
+fr_473	french	Dans une époque agitée où notre planète souffre, les interprétations des prévisions de Nostradamus amusent autant qu'elles inquiètent	inquiètent	0.9117563366889954
+fr_474	french	Il est maintenant possible de lire du contenu de qualité et il devient parfois difficile de discerner média participatif et média traditionnel.	contenu	0.48016905784606934
+fr_475	french	Il est maintenant possible de lire du contenu de qualité et il devient parfois difficile de discerner média participatif et média traditionnel.	discerner	0.9280025959014893
+fr_476	french	Il est maintenant possible de lire du contenu de qualité et il devient parfois difficile de discerner média participatif et média traditionnel.	traditionnel	0.9065968990325928
+fr_477	french	En 1997, la victoire de l'arrêt du supergénérateur Superphénix en Isère a été l'évènement déclencheur pour la création d'un projet ambitieux : un réseau national pour la sortie du nucléaire dans le pays le plus nucléarisé au monde.	supergénérateur	0.9853588938713074
+fr_478	french	En 1997, la victoire de l'arrêt du supergénérateur Superphénix en Isère a été l'évènement déclencheur pour la création d'un projet ambitieux : un réseau national pour la sortie du nucléaire dans le pays le plus nucléarisé au monde.	ambitieux	0.9276587963104248
+fr_479	french	En 1997, la victoire de l'arrêt du supergénérateur Superphénix en Isère a été l'évènement déclencheur pour la création d'un projet ambitieux : un réseau national pour la sortie du nucléaire dans le pays le plus nucléarisé au monde.	déclencheur	0.9352462887763977
+fr_480	french	Les gens critiquent volontiers la fonction «appel» dont ils disent qu'elle détruit le lien social car chacun est dans sa bulle, l'oreille collée à son mobile et pas à l'écoute de son entourage, qu'elle gêne les autres (dans les transports en commun ou au restaurant par exemple), qu'elle crée agacement et tension.	agacement	0.9697483777999878
+fr_481	french	Les gens critiquent volontiers la fonction «appel» dont ils disent qu'elle détruit le lien social car chacun est dans sa bulle, l'oreille collée à son mobile et pas à l'écoute de son entourage, qu'elle gêne les autres (dans les transports en commun ou au restaurant par exemple), qu'elle crée agacement et tension.	entourage	0.9103101491928101
+fr_482	french	Les gens critiquent volontiers la fonction «appel» dont ils disent qu'elle détruit le lien social car chacun est dans sa bulle, l'oreille collée à son mobile et pas à l'écoute de son entourage, qu'elle gêne les autres (dans les transports en commun ou au restaurant par exemple), qu'elle crée agacement et tension.	tension	0.9128787517547607
+fr_483	french	Il se muscle, évolue et gère son énergie en fonction des sollicitations et de son environnement.	sollicitations	0.9279683828353882
+fr_484	french	Il se muscle, évolue et gère son énergie en fonction des sollicitations et de son environnement.	gère	0.030331462621688843
+fr_485	french	Il se muscle, évolue et gère son énergie en fonction des sollicitations et de son environnement.	environnement	0.8363433480262756
+fr_486	french	Dans l'ambitieuse devise de la France « liberté, égalité, fraternité », le deuxième point tient davantage de l'idéal que de la réalité, tant les écarts de situation persistent entre les citoyens.	idéal	0.4399460256099701
+fr_487	french	Dans l'ambitieuse devise de la France « liberté, égalité, fraternité », le deuxième point tient davantage de l'idéal que de la réalité, tant les écarts de situation persistent entre les citoyens.	persistent	0.9211187958717346
+fr_488	french	Dans l'ambitieuse devise de la France « liberté, égalité, fraternité », le deuxième point tient davantage de l'idéal que de la réalité, tant les écarts de situation persistent entre les citoyens.	citoyens	0.7796722650527954
+fr_489	french	Il faut analyser ses expériences professionnelles et dégager trois à cinq grandes compétences (élaborer un budget, piloter des groupes de projet, négocier un contrat...).	dégager	0.9686534404754639
+fr_490	french	Il faut analyser ses expériences professionnelles et dégager trois à cinq grandes compétences (élaborer un budget, piloter des groupes de projet, négocier un contrat...).	piloter	0.4965590536594391
+fr_491	french	Il faut analyser ses expériences professionnelles et dégager trois à cinq grandes compétences (élaborer un budget, piloter des groupes de projet, négocier un contrat...).	élaborer	0.7923790812492371
+fr_492	french	«Pour la première fois, on prend le problème à bras-le-corps en reconnaissant que l'absentéisme a de multiples causes.	absentéisme	0.9716259241104126
+fr_493	french	«Pour la première fois, on prend le problème à bras-le-corps en reconnaissant que l'absentéisme a de multiples causes.	multiples	0.7846068143844604
+fr_494	french	«Pour la première fois, on prend le problème à bras-le-corps en reconnaissant que l'absentéisme a de multiples causes.	reconnaissant	0.9015100002288818
+fr_495	french	Non seulement mes antécédents m'interdisaient toute cancrerie mais, dernier représentant d'une lignée de plus en plus diplômée, j'étais socialement programmé pour devenir le fleuron de la famille : polytechnicien ou normalien, énarque évidemment, la Cour des comptes, un ministère, va savoir...	antécédents	0.9119484424591064
+fr_496	french	Non seulement mes antécédents m'interdisaient toute cancrerie mais, dernier représentant d'une lignée de plus en plus diplômée, j'étais socialement programmé pour devenir le fleuron de la famille : polytechnicien ou normalien, énarque évidemment, la Cour des comptes, un ministère, va savoir...	cancrerie	0.8475121259689331
+fr_497	french	Non seulement mes antécédents m'interdisaient toute cancrerie mais, dernier représentant d'une lignée de plus en plus diplômée, j'étais socialement programmé pour devenir le fleuron de la famille : polytechnicien ou normalien, énarque évidemment, la Cour des comptes, un ministère, va savoir...	lignée	0.42909497022628784
+fr_498	french	Non seulement mes antécédents m'interdisaient toute cancrerie mais, dernier représentant d'une lignée de plus en plus diplômée, j'étais socialement programmé pour devenir le fleuron de la famille : polytechnicien ou normalien, énarque évidemment, la Cour des comptes, un ministère, va savoir...	programmé	0.621492326259613
+fr_499	french	Non seulement mes antécédents m'interdisaient toute cancrerie mais, dernier représentant d'une lignée de plus en plus diplômée, j'étais socialement programmé pour devenir le fleuron de la famille : polytechnicien ou normalien, énarque évidemment, la Cour des comptes, un ministère, va savoir...	représentant	0.6537780165672302
+fr_500	french	Non seulement mes antécédents m'interdisaient toute cancrerie mais, dernier représentant d'une lignée de plus en plus diplômée, j'étais socialement programmé pour devenir le fleuron de la famille : polytechnicien ou normalien, énarque évidemment, la Cour des comptes, un ministère, va savoir...	socialement	0.7514220476150513
+fr_501	french	Mais l'aspect culturel de l'alimentation s'exprime également au travers des rites et interdits qui l'entourent.	aspect	0.5404764413833618
+fr_502	french	Mais l'aspect culturel de l'alimentation s'exprime également au travers des rites et interdits qui l'entourent.	rites	0.9636613130569458
+fr_503	french	Mais l'aspect culturel de l'alimentation s'exprime également au travers des rites et interdits qui l'entourent.	interdits	0.9139649868011475
+fr_504	french	Par ce courrier, je vous demande donc de bien vouloir respecter mon sommeil et de cesser ces bruits nocturnes.	cesser	0.6798794865608215
+fr_505	french	Par ce courrier, je vous demande donc de bien vouloir respecter mon sommeil et de cesser ces bruits nocturnes.	respecter	0.37730902433395386
+fr_506	french	Par ce courrier, je vous demande donc de bien vouloir respecter mon sommeil et de cesser ces bruits nocturnes.	nocturnes	0.9493780136108398
+fr_507	french	Cet autre multiplie les bons mots, les calembours, et les plaisanteries, faisant sourire les uns et suscitant chez les autres un soupir concerné.	calembours	0.9921873807907104
+fr_508	french	Cet autre multiplie les bons mots, les calembours, et les plaisanteries, faisant sourire les uns et suscitant chez les autres un soupir concerné.	concerné	0.8759498596191406
+fr_509	french	Cet autre multiplie les bons mots, les calembours, et les plaisanteries, faisant sourire les uns et suscitant chez les autres un soupir concerné.	suscitant	0.9581305980682373
+fr_510	french	« Là, j'ai pris en pleine poire le poids de mes origines sociales », raconte-t-il à Marianne.	poire	0.8737850189208984
+fr_511	french	« Là, j'ai pris en pleine poire le poids de mes origines sociales », raconte-t-il à Marianne.	origines	0.5906778573989868
+fr_512	french	« Là, j'ai pris en pleine poire le poids de mes origines sociales », raconte-t-il à Marianne.	sociales	0.7816641330718994
+fr_513	french	Dans les entreprises, on se rend compte que cela se passe mieux lorsqu'on prononce l'interdiction totale que lorsque l'on crée des exceptions.	exceptions	0.8849356174468994
+fr_514	french	Dans les entreprises, on se rend compte que cela se passe mieux lorsqu'on prononce l'interdiction totale que lorsque l'on crée des exceptions.	totale	0.6160531044006348
+fr_515	french	Dans les entreprises, on se rend compte que cela se passe mieux lorsqu'on prononce l'interdiction totale que lorsque l'on crée des exceptions.	exceptions	0.8849356174468994
+fr_516	french	Nous passons alors la journée à bavarder dans la maison tandis que le vent jette le froid, la neige ou la pluie sur mes fenêtres.	bavarder	0.4723264276981354
+fr_517	french	Nous passons alors la journée à bavarder dans la maison tandis que le vent jette le froid, la neige ou la pluie sur mes fenêtres.	jette	0.7681337594985962
+fr_518	french	Nous passons alors la journée à bavarder dans la maison tandis que le vent jette le froid, la neige ou la pluie sur mes fenêtres.	journée	0.08973449468612671
+fr_519	french	Si les musées veulent jouer leur rôle d'éducateur, il est bien normal qu'avant de songer à faire des profits ils songent à supprimer les barrières tarifaires pour favoriser l'accès de leurs biens au plus grand nombre.	éducateur	0.8835816979408264
+fr_520	french	Si les musées veulent jouer leur rôle d'éducateur, il est bien normal qu'avant de songer à faire des profits ils songent à supprimer les barrières tarifaires pour favoriser l'accès de leurs biens au plus grand nombre.	songent	0.9617526531219482
+fr_521	french	Si les musées veulent jouer leur rôle d'éducateur, il est bien normal qu'avant de songer à faire des profits ils songent à supprimer les barrières tarifaires pour favoriser l'accès de leurs biens au plus grand nombre.	favoriser	0.8559296131134033
+fr_522	french	Tout a déjà changé avec l'explosion du numérique.	changé	0.2339877188205719
+fr_523	french	Tout a déjà changé avec l'explosion du numérique.	explosion	0.9362512230873108
+fr_524	french	Tout a déjà changé avec l'explosion du numérique.	numérique	0.8467084169387817
+fr_525	french	Et comme une imbécile, j'ai rentré mes coordonnées bancaires et j'ai alors vu un message d'alerte.	coordonnées	0.752011775970459
+fr_526	french	Et comme une imbécile, j'ai rentré mes coordonnées bancaires et j'ai alors vu un message d'alerte.	alerte	0.8768579363822937
+fr_527	french	Et comme une imbécile, j'ai rentré mes coordonnées bancaires et j'ai alors vu un message d'alerte.	rentré	0.19837790727615356
+fr_528	french	Enfin, tendance lourde de ces vingt dernières années, l'intérêt croissant des Français pour les pratiques collectives.	lourde	0.8696669340133667
+fr_529	french	Enfin, tendance lourde de ces vingt dernières années, l'intérêt croissant des Français pour les pratiques collectives.	collectives	0.9311155080795288
+fr_530	french	Enfin, tendance lourde de ces vingt dernières années, l'intérêt croissant des Français pour les pratiques collectives.	croissant	0.8943494558334351
+fr_531	french	Si les rares Français qui ont entendu parler de ce fameux revenu de base ont tendance, au premier abord, à trouver l'idée farfelue, cette proposition radicale agite en coulisses de plus en plus d'acteurs de la société mondiale.	farfelue	0.9526318311691284
+fr_532	french	Si les rares Français qui ont entendu parler de ce fameux revenu de base ont tendance, au premier abord, à trouver l'idée farfelue, cette proposition radicale agite en coulisses de plus en plus d'acteurs de la société mondiale.	radicale	0.8279316425323486
+fr_533	french	Si les rares Français qui ont entendu parler de ce fameux revenu de base ont tendance, au premier abord, à trouver l'idée farfelue, cette proposition radicale agite en coulisses de plus en plus d'acteurs de la société mondiale.	coulisses	0.6168878078460693
+fr_534	french	Sa stratégie, sans se contenter de simplement protéger l'environnement, consiste à assurer et renforcer les fondements mêmes d'un développement durable.	fondements	0.9189713001251221
+fr_535	french	Sa stratégie, sans se contenter de simplement protéger l'environnement, consiste à assurer et renforcer les fondements mêmes d'un développement durable.	contenter	0.8502237200737
+fr_536	french	Sa stratégie, sans se contenter de simplement protéger l'environnement, consiste à assurer et renforcer les fondements mêmes d'un développement durable.	consiste	0.7993106245994568
+fr_537	french	Par ailleurs, les personnes plaçant un tel autocollant sur leur boîte aux lettres ne lisent pas les prospectus reçus contre leur gré.	plaçant	0.8882279396057129
+fr_538	french	Par ailleurs, les personnes plaçant un tel autocollant sur leur boîte aux lettres ne lisent pas les prospectus reçus contre leur gré.	prospectus	0.8302072882652283
+fr_539	french	Par ailleurs, les personnes plaçant un tel autocollant sur leur boîte aux lettres ne lisent pas les prospectus reçus contre leur gré.	gré	0.9879951477050781
+fr_540	french	Une démonstration de force sur deux jours en guise d'avertissement pour rappeler que le loup est une espèce protégée.	guise	0.9069642424583435
+fr_541	french	Une démonstration de force sur deux jours en guise d'avertissement pour rappeler que le loup est une espèce protégée.	avertissement	0.871381402015686
+fr_542	french	Une démonstration de force sur deux jours en guise d'avertissement pour rappeler que le loup est une espèce protégée.	démonstration	0.8879669904708862
+fr_543	french	Son constat: les élèves ont des difficultés d'apprentissage et de motivation mais ils ont chacun des savoirs non reconnus par l'école.	constat	0.7359877824783325
+fr_544	french	Son constat: les élèves ont des difficultés d'apprentissage et de motivation mais ils ont chacun des savoirs non reconnus par l'école.	savoirs	0.7886266708374023
+fr_545	french	Son constat: les élèves ont des difficultés d'apprentissage et de motivation mais ils ont chacun des savoirs non reconnus par l'école.	motivation	0.7573350667953491
+fr_546	french	Des voyages de Matisse, il faut retenir l'Andalousie, le Maroc et l'Algérie, où les couleurs et les céramiques ont développé chez lui un goût pour l'art décoratif.	céramiques	0.9291355609893799
+fr_547	french	Des voyages de Matisse, il faut retenir l'Andalousie, le Maroc et l'Algérie, où les couleurs et les céramiques ont développé chez lui un goût pour l'art décoratif.	goût	0.6976789236068726
+fr_548	french	Des voyages de Matisse, il faut retenir l'Andalousie, le Maroc et l'Algérie, où les couleurs et les céramiques ont développé chez lui un goût pour l'art décoratif.	décoratif	0.9714715480804443
+fr_549	french	Bien sûr, on peut me rétorquer que je n'ai qu'à acquérir la nationalité française.	rétorquer	0.8458869457244873
+fr_550	french	Bien sûr, on peut me rétorquer que je n'ai qu'à acquérir la nationalité française.	acquérir	0.6554465293884277
+fr_551	french	Bien sûr, on peut me rétorquer que je n'ai qu'à acquérir la nationalité française.	nationalité	0.7795647382736206
+fr_552	french	La France se situe au quatrième rang mondial pour le nombre d'espèces animales menacées et au neuvième pour la flore.	menacées	0.8184928894042969
+fr_553	french	La France se situe au quatrième rang mondial pour le nombre d'espèces animales menacées et au neuvième pour la flore.	flore	0.9334406852722168
+fr_554	french	La France se situe au quatrième rang mondial pour le nombre d'espèces animales menacées et au neuvième pour la flore.	situe	0.12329638004302979
+fr_555	french	. Pourtant, habituellement, je ne lis pas les livres qui donnent lieu à une adaptation dans laquelle je dois jouer : ainsi, je privilégie la vision du réalisateur.	adaptation	0.744328498840332
+fr_556	french	. Pourtant, habituellement, je ne lis pas les livres qui donnent lieu à une adaptation dans laquelle je dois jouer : ainsi, je privilégie la vision du réalisateur.	privilégie	0.692717969417572
+fr_557	french	. Pourtant, habituellement, je ne lis pas les livres qui donnent lieu à une adaptation dans laquelle je dois jouer : ainsi, je privilégie la vision du réalisateur.	vision	0.291665643453598
+fr_558	french	Pourtant, en lisant les articles, on découvre rapidement qu'ils sont humoristiques, qu'ils se moquent de l'actualité politique et économique ou des journaux traditionnels.	humoristiques	0.968305230140686
+fr_559	french	Pourtant, en lisant les articles, on découvre rapidement qu'ils sont humoristiques, qu'ils se moquent de l'actualité politique et économique ou des journaux traditionnels.	moquent	0.6441965103149414
+fr_560	french	Pourtant, en lisant les articles, on découvre rapidement qu'ils sont humoristiques, qu'ils se moquent de l'actualité politique et économique ou des journaux traditionnels.	rapidement	0.8198277950286865
+fr_561	french	On distingue deux types de médias participatifs : les sites autoproduits, constitués de bénévoles, et les sites autorégulés, gérés par des journalistes, qui s'appuient sur des participations ponctuelles de lecteurs.	autorégulés	0.9882838726043701
+fr_562	french	On distingue deux types de médias participatifs : les sites autoproduits, constitués de bénévoles, et les sites autorégulés, gérés par des journalistes, qui s'appuient sur des participations ponctuelles de lecteurs.	constitués	0.9078965187072754
+fr_563	french	On distingue deux types de médias participatifs : les sites autoproduits, constitués de bénévoles, et les sites autorégulés, gérés par des journalistes, qui s'appuient sur des participations ponctuelles de lecteurs.	bénévoles	0.9059301614761353
+fr_564	french	En revanche, dans les associations caritatives, on n'a rien en échange, c'est logique mais du coup les dons d'objets baissent.	caritatives	0.9138798713684082
+fr_565	french	En revanche, dans les associations caritatives, on n'a rien en échange, c'est logique mais du coup les dons d'objets baissent.	baissent	0.9268893599510193
+fr_566	french	En revanche, dans les associations caritatives, on n'a rien en échange, c'est logique mais du coup les dons d'objets baissent.	logique	0.46506279706954956
+fr_567	french	En revanche, les surfaces de pin sylvestre, essentiellement présent dans le nord de l'hexagone, diminueraient nettement dès 2030.	surfaces	0.9277403354644775
+fr_568	french	En revanche, les surfaces de pin sylvestre, essentiellement présent dans le nord de l'hexagone, diminueraient nettement dès 2030.	essentiellement	0.7990570068359375
+fr_569	french	En revanche, les surfaces de pin sylvestre, essentiellement présent dans le nord de l'hexagone, diminueraient nettement dès 2030.	sylvestre	0.9644222855567932
+fr_570	french	N'importe qui peut y participer, quels que soient son âge, sa profession, sa nationalité, son statut social, son niveau d'études.	statut	0.4267750680446625
+fr_571	french	N'importe qui peut y participer, quels que soient son âge, sa profession, sa nationalité, son statut social, son niveau d'études.	profession	0.8621330261230469
+fr_572	french	N'importe qui peut y participer, quels que soient son âge, sa profession, sa nationalité, son statut social, son niveau d'études.	niveau	0.5705102682113647
+fr_573	french	J'ai des défauts, mon mari en a aussi, et si je vous disais que notre ménage est le modèle des ménages, qu'il n'y a jamais eu un nuage entre nous, vous ne le croiriez pas.	ménage	0.6431080102920532
+fr_574	french	J'ai des défauts, mon mari en a aussi, et si je vous disais que notre ménage est le modèle des ménages, qu'il n'y a jamais eu un nuage entre nous, vous ne le croiriez pas.	nuage	0.769339382648468
+fr_575	french	J'ai des défauts, mon mari en a aussi, et si je vous disais que notre ménage est le modèle des ménages, qu'il n'y a jamais eu un nuage entre nous, vous ne le croiriez pas.	défauts	0.9581159353256226
+fr_576	french	Ces publicités incitent les bambins à prendre des habitudes alimentaires particulièrement malsaines, qu'ils peuvent garder toute leur vie.	malsaines	0.9693034291267395
+fr_577	french	Ces publicités incitent les bambins à prendre des habitudes alimentaires particulièrement malsaines, qu'ils peuvent garder toute leur vie.	bambins	0.8717037439346313
+fr_578	french	Ces publicités incitent les bambins à prendre des habitudes alimentaires particulièrement malsaines, qu'ils peuvent garder toute leur vie.	particulièrement	0.9149411916732788
+fr_579	french	En effet, je me retrouve en possession, contre ma volonté, d'un imprimé non adressé au nom de votre enseigne.	imprimé	0.4543687105178833
+fr_580	french	En effet, je me retrouve en possession, contre ma volonté, d'un imprimé non adressé au nom de votre enseigne.	enseigne	0.6753976345062256
+fr_581	french	En effet, je me retrouve en possession, contre ma volonté, d'un imprimé non adressé au nom de votre enseigne.	retrouve	0.5617119669914246
+fr_582	french	Avant de partir, les fées ont toutes fait un don à la petite princesse mais la vieille, elle, a prononcé une malédiction: «Que la princesse se perce la main d'un fuseau et meure!» Heureusement, une jeune et gentille fée qui n'avait pas encore fait son cadeau a pu corriger un peu cette malédiction: «Que la princesse dorme cent ans!»	don	0.71205073595047
+fr_583	french	Avant de partir, les fées ont toutes fait un don à la petite princesse mais la vieille, elle, a prononcé une malédiction: «Que la princesse se perce la main d'un fuseau et meure!» Heureusement, une jeune et gentille fée qui n'avait pas encore fait son cadeau a pu corriger un peu cette malédiction: «Que la princesse dorme cent ans!»	fuseau	0.7955224514007568
+fr_584	french	Avant de partir, les fées ont toutes fait un don à la petite princesse mais la vieille, elle, a prononcé une malédiction: «Que la princesse se perce la main d'un fuseau et meure!» Heureusement, une jeune et gentille fée qui n'avait pas encore fait son cadeau a pu corriger un peu cette malédiction: «Que la princesse dorme cent ans!»	prononcé	0.8179795742034912
+fr_585	french	Avant de partir, les fées ont toutes fait un don à la petite princesse mais la vieille, elle, a prononcé une malédiction: «Que la princesse se perce la main d'un fuseau et meure!» Heureusement, une jeune et gentille fée qui n'avait pas encore fait son cadeau a pu corriger un peu cette malédiction: «Que la princesse dorme cent ans!»	perce	0.9761881828308105
+fr_586	french	Avant de partir, les fées ont toutes fait un don à la petite princesse mais la vieille, elle, a prononcé une malédiction: «Que la princesse se perce la main d'un fuseau et meure!» Heureusement, une jeune et gentille fée qui n'avait pas encore fait son cadeau a pu corriger un peu cette malédiction: «Que la princesse dorme cent ans!»	corriger	0.8391424417495728
+fr_587	french	Avant de partir, les fées ont toutes fait un don à la petite princesse mais la vieille, elle, a prononcé une malédiction: «Que la princesse se perce la main d'un fuseau et meure!» Heureusement, une jeune et gentille fée qui n'avait pas encore fait son cadeau a pu corriger un peu cette malédiction: «Que la princesse dorme cent ans!»	cadeau	0.2034420669078827
+fr_588	french	Qu'à cela ne tienne, l'ancien charcutier se paye des cours du soir, bûche comme un damné les maths et l'algèbre, qu'il n'a jamais apprises, et parvient à décrocher son diplôme.	damné	0.993212103843689
+fr_589	french	Qu'à cela ne tienne, l'ancien charcutier se paye des cours du soir, bûche comme un damné les maths et l'algèbre, qu'il n'a jamais apprises, et parvient à décrocher son diplôme.	décrocher	0.8969617486000061
+fr_590	french	Qu'à cela ne tienne, l'ancien charcutier se paye des cours du soir, bûche comme un damné les maths et l'algèbre, qu'il n'a jamais apprises, et parvient à décrocher son diplôme.	bûche	0.9778111577033997
+fr_591	french	C'est à la fois une idée de dingue et un projet follement séduisant: un hôtel ayant la forme d'une grande roue posée sur l'eau et dont les cabines tiendraient lieu de... chambres.	dingue	0.3280690312385559
+fr_592	french	C'est à la fois une idée de dingue et un projet follement séduisant: un hôtel ayant la forme d'une grande roue posée sur l'eau et dont les cabines tiendraient lieu de... chambres.	cabines	0.8482174277305603
+fr_593	french	C'est à la fois une idée de dingue et un projet follement séduisant: un hôtel ayant la forme d'une grande roue posée sur l'eau et dont les cabines tiendraient lieu de... chambres.	séduisant	0.916070818901062
+fr_594	french	Paul Gauguin, peintre proche du mouvement post-impressionniste à partir de 1876, est considéré comme la figure majeure de l'Ecole de Pont-Aven et comme le grand inspirateur des nabis.	majeure	0.4049128293991089
+fr_595	french	Paul Gauguin, peintre proche du mouvement post-impressionniste à partir de 1876, est considéré comme la figure majeure de l'Ecole de Pont-Aven et comme le grand inspirateur des nabis.	inspirateur	0.9426660537719727
+fr_596	french	Paul Gauguin, peintre proche du mouvement post-impressionniste à partir de 1876, est considéré comme la figure majeure de l'Ecole de Pont-Aven et comme le grand inspirateur des nabis.	figure	0.7341493368148804
+fr_597	french	Moment culte : la chorégraphie du cancan final, quand la musique s'accélère pendant que les chanteurs lèvent les bras et tournent sur eux-mêmes.	chorégraphie	0.7540538311004639
+fr_598	french	Moment culte : la chorégraphie du cancan final, quand la musique s'accélère pendant que les chanteurs lèvent les bras et tournent sur eux-mêmes.	culte	0.8774162530899048
+fr_599	french	Moment culte : la chorégraphie du cancan final, quand la musique s'accélère pendant que les chanteurs lèvent les bras et tournent sur eux-mêmes.	chanteurs	0.8274660110473633
+fr_600	french	Cette gratuité n'est que partielle puisque une partie des impôts fonciers payés par les propriétaires est consacrée à l'entretien des réseaux de distribution.	partielle	0.5901323556900024
